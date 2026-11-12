@@ -39,12 +39,7 @@ git add -A && git commit -m "news: 2026-11-13" && git push
         "tag": "選填，例如：持續追蹤",
         "sources": [{"outlet": "Reuters", "time": "11/13 03:10", "url": "https://..."}],
         "local": [{"outlet": "中央社", "note": "報導重點差異", "url": "https://..."}],
-        "note": "選填，例如：只找到台灣媒體報導",
-        "image": {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/檔名.jpg?width=960",
-          "credit": "圖說｜攝影：作者｜授權",
-          "source": "https://commons.wikimedia.org/wiki/File:檔名.jpg"
-        }
+        "note": "選填，例如：只找到台灣媒體報導"
       }]
     }
   ],
@@ -65,6 +60,4 @@ git add -A && git commit -m "news: 2026-11-13" && git push
 
 ## 配圖
 
-- `image` 選填。只用 Wikimedia Commons 上的自由授權圖（CC BY、CC BY-SA、CC0、公有領域），credit 必須寫作者與授權。
-- 不使用新聞媒體或通訊社的照片，也不使用以可辨識人物為主體的照片。
-- 沒有 `image`，或圖片載入失敗時，自動顯示 `assets/cat/<分類 id>.svg` 分類主視覺。
+不放圖片，網站維持純文字。

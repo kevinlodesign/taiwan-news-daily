@@ -84,27 +84,6 @@ def render_sources(sources):
     return f'<ul class="sources">{"".join(parts)}</ul>'
 
 
-CATEGORY_IDS = {"security", "diplomacy", "finance", "semiconductor", "tech", "society"}
-
-
-def render_figure(item, cat_id):
-    """Licensed photo if given, otherwise the category cover. Falls back on load error."""
-    fallback = f"../assets/cat/{cat_id if cat_id in CATEGORY_IDS else 'society'}.svg"
-    img = item.get("image") or {}
-    if img.get("url"):
-        credit = e(img.get("credit"))
-        if img.get("source"):
-            credit = f'<a href="{e(img["source"])}" target="_blank" rel="noopener">{credit}</a>'
-        return (
-            '<figure class="thumb">'
-            f'<img src="{e(img["url"])}" alt="" loading="lazy" '
-            f"onerror=\"this.onerror=null;this.src='{fallback}';"
-            "this.parentNode.classList.add('is-fallback')\">"
-            f"<figcaption>{credit}</figcaption></figure>"
-        )
-    return f'<figure class="thumb is-cover"><img src="{fallback}" alt="" loading="lazy"></figure>'
-
-
 def render_item(item, n, cat_id):
     tags = ""
     if item.get("prc"):
@@ -121,14 +100,9 @@ def render_item(item, n, cat_id):
     note = f'<p class="note">{linkify(item["note"])}</p>' if item.get("note") else ""
     return f"""<article class="item">
   <div class="item-head"><span class="num">{n:02d}</span><h3>{e(item["title"])}</h3></div>
-  <div class="item-body">
-    {render_figure(item, cat_id)}
-    <div class="item-text">
-      {f'<div class="tags">{tags}</div>' if tags else ''}
-      <p class="summary">{e(item["summary"])}</p>
-      {render_sources(item.get("sources", []))}
-    </div>
-  </div>
+  {f'<div class="tags">{tags}</div>' if tags else ''}
+  <p class="summary">{e(item["summary"])}</p>
+  {render_sources(item.get("sources", []))}
   {local}
   {note}
 </article>"""
