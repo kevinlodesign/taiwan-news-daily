@@ -24,7 +24,11 @@ a:hover { color: var(--accent); }
   display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 16px;
   border-bottom: 3px double var(--ink);
 }
-.brand { font-family: var(--serif); font-weight: 700; font-size: 22px; color: var(--ink); text-decoration: none; letter-spacing: .08em; }
+.brand-row { display: flex; align-items: center; gap: 14px; }
+.logo { display: block; line-height: 0; }
+.logo img { display: block; height: 20px; width: auto; }
+.brand { padding-left: 14px; border-left: 1px solid var(--rule); line-height: 1.2;
+  font-family: var(--serif); font-weight: 700; font-size: 22px; color: var(--ink); text-decoration: none; letter-spacing: .08em; }
 .tagline { font-size: 13px; color: var(--ink-2); }
 
 main { max-width: 760px; margin: 0 auto; padding: 0 24px 48px; }
@@ -108,6 +112,8 @@ h3 { font-size: 19px; font-weight: 700; line-height: 1.55; margin: 0; }
 
 @media (max-width: 560px) {
   body { font-size: 16px; }
+  .logo img { height: 16px; }
+  .brand { font-size: 18px; padding-left: 12px; }
   h1 { font-size: 27px; }
   .summary, .sources, .local, .note, .tags { margin-left: 0; }
   .archive a { grid-template-columns: 96px 1fr auto; }

@@ -60,7 +60,10 @@ def page(title, body, depth=0):
 </head>
 <body>
 <header class="masthead">
-  <a class="brand" href="{prefix}index.html">{SITE_TITLE}</a>
+  <div class="brand-row">
+    <a class="logo" href="{prefix}index.html"><img src="{prefix}assets/logo-eraverslab.svg" alt="ERAVERS.lab"></a>
+    <a class="brand" href="{prefix}index.html">{SITE_TITLE}</a>
+  </div>
   <span class="tagline">每天 06:00 前更新｜世界怎麼報導台灣</span>
 </header>
 <main>
