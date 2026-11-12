@@ -1,0 +1,124 @@
+/* 台灣國際新聞摘要 — 紙本報紙感、純文字、手機優先 */
+:root {
+  --paper: #F7F5F0;
+  --ink: #1C1C1C;
+  --ink-2: #5E5A54;
+  --rule: #DAD5CB;
+  --accent: #A3231B;      /* 深朱紅：分類序號、重點 */
+  --link: #1D4A73;
+  --local-bg: #EFEBE3;
+  --serif: "Noto Serif TC", "Noto Serif CJK TC", serif;
+  --sans: "Noto Sans TC", "Noto Sans CJK TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--sans); font-size: 17px; line-height: 1.8; letter-spacing: .02em;
+}
+a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { color: var(--accent); }
+
+.masthead {
+  max-width: 760px; margin: 0 auto; padding: 20px 24px 14px;
+  display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 16px;
+  border-bottom: 3px double var(--ink);
+}
+.brand { font-family: var(--serif); font-weight: 700; font-size: 22px; color: var(--ink); text-decoration: none; letter-spacing: .08em; }
+.tagline { font-size: 13px; color: var(--ink-2); }
+
+main { max-width: 760px; margin: 0 auto; padding: 0 24px 48px; }
+
+.dateline { font-size: 14px; font-weight: 500; color: var(--accent); letter-spacing: .1em; margin: 32px 0 4px; }
+h1 { font-family: var(--serif); font-weight: 700; font-size: 34px; line-height: 1.35; margin: 0 0 8px; }
+h2 { font-family: var(--serif); font-weight: 700; font-size: 22px; line-height: 1.4; }
+h3 { font-size: 19px; font-weight: 700; line-height: 1.55; margin: 0; }
+.meta { font-size: 14px; color: var(--ink-2); margin: 0; }
+.edition-note {
+  font-size: 14px; color: var(--ink-2); background: var(--local-bg);
+  padding: 10px 14px; border-radius: 4px; margin: 16px 0 0;
+}
+
+/* 今日重點 */
+.highlights { margin: 28px 0 8px; padding: 20px 24px; background: #fff; border-top: 3px solid var(--accent); }
+.highlights h2 { font-size: 17px; margin: 0 0 8px; color: var(--accent); letter-spacing: .1em; }
+.highlights ol { margin: 0; padding-left: 1.4em; }
+.highlights li { margin: 6px 0; font-weight: 500; }
+
+.toc { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 8px; }
+.toc a {
+  font-size: 13px; text-decoration: none; color: var(--ink-2);
+  border: 1px solid var(--rule); border-radius: 999px; padding: 3px 12px; background: #fff;
+}
+.toc a:hover { border-color: var(--accent); color: var(--accent); }
+
+/* 分類 */
+.category { margin-top: 40px; }
+.category h2 {
+  display: flex; align-items: baseline; gap: 12px; margin: 0 0 4px;
+  padding-bottom: 8px; border-bottom: 1px solid var(--ink);
+}
+.cat-num { font-family: var(--serif); color: var(--accent); font-size: 26px; }
+.cat-count { margin-left: auto; font-family: var(--sans); font-size: 13px; font-weight: 400; color: var(--ink-2); }
+
+/* 單則新聞 */
+.item { padding: 22px 0; border-bottom: 1px solid var(--rule); }
+.item-head { display: flex; gap: 12px; align-items: baseline; }
+.num { font-size: 13px; font-weight: 500; color: var(--ink-2); font-variant-numeric: tabular-nums; flex: none; }
+.tags { margin: 8px 0 0 30px; display: flex; gap: 6px; flex-wrap: wrap; }
+.tag { font-size: 12px; font-weight: 500; padding: 1px 8px; border-radius: 3px; background: var(--ink); color: var(--paper); }
+.tag-prc { background: var(--accent); }
+.summary { margin: 8px 0 10px 30px; }
+.sources { list-style: none; margin: 0 0 0 30px; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 14px; }
+.sources li { white-space: nowrap; }
+.sources a { font-weight: 500; }
+.sources .time { color: var(--ink-2); margin-left: 6px; }
+.local { margin: 12px 0 0 30px; padding: 10px 14px; background: var(--local-bg); border-left: 3px solid var(--ink-2); font-size: 15px; }
+.local-label { font-size: 12px; font-weight: 700; color: var(--ink-2); letter-spacing: .08em; margin-right: 8px; }
+.local p { margin: 4px 0 0; }
+.note { margin: 10px 0 0 30px; font-size: 13px; color: var(--ink-2); word-break: break-all; }
+
+.search-notes { margin-top: 48px; padding-top: 16px; border-top: 3px double var(--ink); font-size: 14px; color: var(--ink-2); }
+.search-notes h2 { font-size: 17px; color: var(--ink); }
+.search-notes h4 { margin: 12px 0 4px; font-size: 14px; color: var(--ink); }
+.search-notes ul { margin: 0; padding-left: 1.2em; }
+.back { margin-top: 32px; font-size: 15px; }
+
+/* 首頁 */
+.latest { padding-bottom: 28px; border-bottom: 1px solid var(--ink); }
+.hl-big { padding-left: 1.4em; margin: 12px 0 20px; font-size: 18px; }
+.hl-big li { margin: 10px 0; font-weight: 500; }
+.cta {
+  display: inline-block; text-decoration: none; font-weight: 700; color: var(--paper);
+  background: var(--ink); padding: 10px 20px; border-radius: 4px;
+}
+.cta:hover { background: var(--accent); color: var(--paper); }
+.archive ul { list-style: none; padding: 0; margin: 0; }
+.archive a {
+  display: grid; grid-template-columns: 110px 40px 1fr auto; gap: 12px; align-items: baseline;
+  padding: 12px 0; border-bottom: 1px solid var(--rule); text-decoration: none; color: var(--ink);
+}
+.archive a:hover .a-date { color: var(--accent); }
+.a-date { font-weight: 700; font-variant-numeric: tabular-nums; }
+.a-wd, .a-count { font-size: 13px; color: var(--ink-2); }
+.a-hl { font-size: 15px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.site-footer { max-width: 760px; margin: 0 auto; padding: 20px 24px 40px; font-size: 12px; color: var(--ink-2); border-top: 1px solid var(--rule); }
+
+@media (max-width: 560px) {
+  body { font-size: 16px; }
+  h1 { font-size: 27px; }
+  .summary, .sources, .local, .note, .tags { margin-left: 0; }
+  .archive a { grid-template-columns: 96px 1fr auto; }
+  .a-wd { display: none; }
+}
+
+/* 列印／轉 PDF */
+@page { size: A4; margin: 16mm 14mm; }
+@media print {
+  body { background: #fff; font-size: 11pt; }
+  .toc, .back, .cta { display: none; }
+  .highlights { border: 1px solid var(--rule); border-top: 3px solid var(--accent); }
+  .item { break-inside: avoid; }
+  a { color: var(--ink); }
+}
