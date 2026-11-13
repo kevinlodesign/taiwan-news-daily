@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-13",
+  "window": "2026-11-12 06:00 – 2026-11-13 05:00（台北時間）",
+  "highlights": [
+    "輝達執行長黃仁勳因婚外情及與涉嫌中國間諜的女子往來而辭職，台股 11/12 重挫 2.63%，經濟部長龔明鑫表示 AI 趨勢不會因此改變。",
+    "習近平在北京孫中山誕辰紀念會上重申兩岸「統一」是中共的歷史任務，同日共軍出動 29 架次軍機對台實施「聯合戰備警巡」，陸委會強調中華民國存在的事實。",
+    "G7 外長聲明點名中國在台灣以東海域的行動威脅區域穩定，總統府表示歡迎，中國外交部則要 G7「管好自己的事」。"
+  ],
+  "categories": [
+    {
+      "id": "security",
+      "name": "兩岸與軍事安全",
+      "items": [
+        {
+          "title": "習近平藉孫中山誕辰重申「統一」，陸委會：中華人民共和國從未統治台灣",
+          "summary": "習近平 11/12 在北京紀念孫中山誕辰 160 週年大會上表示，解決台灣問題、實現「完全統一」是中共堅定不移的歷史任務，並願與台灣「有識之士」對話，但未提及武力。陸委會隨即回應，批評北京扭曲歷史、利用孫中山遺產推動統一，要求北京正視中華民國存在的事實並尊重台灣民主生活方式。國際媒體多指出，這番談話出現在習近平與川普預計於 APEC 深圳峰會會面前一週。",
+          "tag": "持續追蹤",
+          "sources": [
+            {"outlet": "South China Morning Post", "time": "11/12", "url": "https://www.scmp.com/news/china/politics/article/3374228/xi-jinping-calls-dialogue-taiwan-reunification-people-vision"},
+            {"outlet": "Reuters（The Korea Times 轉載）", "time": "11/12", "url": "https://www.koreatimes.co.kr/world/20261112/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped"},
+            {"outlet": "NBC News", "time": "11/12", "url": "https://nbcnews.com/world/asia/china-xi-says-taiwan-reunification-must-happen-history-cannot-stopped-rcna608935"},
+            {"outlet": "Anadolu Agency", "time": "11/12", "url": "https://www.aa.com.tr/en/asia-pacific/xi-says-complete-reunification-of-taiwan-with-china-unswerving-historical-task-of-communist-party/4121726"}
+          ],
+          "local": [
+            {"outlet": "中央社 Focus Taiwan", "note": "以陸委會回應為主軸，強調台灣依傳統算法視今年為孫中山誕辰 161 週年，並引述陸委會「中華人民共和國從未統治台灣一天」的立場。", "url": "https://focustaiwan.tw/politics/202611120026"}
+          ]
+        },
+        {
+          "title": "共軍 29 架次軍機對台「聯合戰備警巡」，與習近平談話同日",
+          "summary": "台灣國防部 11/12 表示，偵獲 29 架次共機（以殲-16 戰機與無人機為主）配合共艦，在台灣周邊實施「聯合戰備警巡」。國際媒體將這次行動與習近平同日發表的統一談話並列報導。有報導指出其中 22 架次逾越海峽中線及其延伸線，並包括空警-500 預警機，但這項細節目前只見單一來源，待確認。",
+          "sources": [
+            {"outlet": "NBC News（引述 Reuters）", "time": "11/12", "url": "https://nbcnews.com/world/asia/china-xi-says-taiwan-reunification-must-happen-history-cannot-stopped-rcna608935"},
+            {"outlet": "Zona Militar", "time": "11/12", "url": "https://www.zona-militar.com/en/2026/11/12/taiwan-detects-29-chinese-military-aircraft-including-j-16-fighters-and-kj-500-early-warning-aircraft"}
+          ]
+        },
+        {
+          "title": "新華社、環球時報：習近平號召繼承孫中山遺志、推進民族復興",
+          "summary": "中國官方媒體報導習近平的孫中山紀念談話，重點放在中共是孫中山事業的繼承者，以及兩岸同胞與海外華人應共同反對「台獨」。官方版本將統一與「民族復興」綁在一起，未提及台灣方面的反駁。",
+          "prc": true,
+          "sources": [
+            {"outlet": "中國政府網（新華社稿）", "time": "11/12", "url": "https://english.www.gov.cn/news/202611/12/content_WS6af54f5dc6d00ca5f9a0e3b1.html"},
+            {"outlet": "環球時報 Global Times", "time": "11/12", "url": "https://www.globaltimes.cn/page/202611/1374183.shtml"}
+          ]
+        },
+        {
+          "title": "國台辦批民進黨當局阻撓兩岸交流、回應「跨國鎮壓」指控",
+          "summary": "新華社報導，國台辦發言人在 11/12 例行記者會上，針對台灣啟動修訂《反滲透法》的報導回應，指民進黨當局阻撓兩岸民間交流，並稱台方所謂「跨國鎮壓」的說法是捏造。台灣方面先前表示，修法是要處罰協助中國對台灣人進行跨國鎮壓的人。",
+          "prc": true,
+          "sources": [
+            {"outlet": "新華社（China.org.cn 轉載）", "time": "11/12", "url": "http://www.china.org.cn/2026-11/12/content_118771464.shtml"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times（自由時報英文版）", "note": "11/9 報導政府規劃修訂《反滲透法》，加重協助中國進行跨國鎮壓者的刑責，草案預計近期提出。", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867408"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "name": "國際外交",
+      "items": [
+        {
+          "title": "G7 外長點名中國台灣以東海域行動，總統府歡迎、北京反擊",
+          "summary": "G7 外長在巴黎會後發表聯合聲明，表示中國在台灣以東海域日益強勢的行動威脅區域穩定與航行自由，並支持台灣有意義參與國際組織；路透形容這是 G7 迄今對此最一致的關切表態。台灣總統府表示歡迎，將持續強化自我防衛。中國外交部發言人毛寧 11/12 則批評聲明干涉內政，要 G7 先管好自己的事。",
+          "sources": [
+            {"outlet": "Reuters（AOL 轉載）", "time": "11/12", "url": "https://www.aol.com/articles/g7-foreign-ministers-chinas-actions-021733000.html"},
+            {"outlet": "Baird Maritime", "time": "11/12", "url": "https://www.bairdmaritime.com/security/g7-calls-out-chinas-assertive-actions-in-waters-east-of-taiwan"},
+            {"outlet": "ANI", "time": "11/12", "url": "https://www.aninews.in/news/world/asia/g7-foreign-ministers-warn-china8217s-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation20261112195628/"},
+            {"outlet": "中國外交部（毛寧記者會）", "time": "11/12", "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202611/t20261112_12058413.html"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times（自由時報英文版）", "note": "11/13 頭版以台灣歡迎 G7 立場為標題，著重聲明中支持台灣參與國際組織的部分。", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/13/2003867652"}
+          ]
+        },
+        {
+          "title": "賴總統：台灣以「對等」原則參與 APEC 深圳峰會，施振榮任領袖代表",
+          "summary": "路透報導，賴清德 11/12 表示台灣是在「對等」基礎上參與下週在深圳舉行的 APEC 領袖會議，此前台灣政府曾要求北京書面保證台灣能平等參與。賴總統並介紹宏碁創辦人施振榮為領袖代表，要他向各國傳達台灣願在 AI 領域合作。中方先前則表示會依一個中國原則與 APEC 相關備忘錄處理台灣參與問題。",
+          "sources": [
+            {"outlet": "Reuters（BusinessWorld 轉載）", "time": "11/12", "url": "https://bworldonline.com/world/2026/11/12/793393/taiwan-is-taking-part-in-apec-china-summit-on-an-equal-basis-president-says/"},
+            {"outlet": "中日新聞", "time": "11/12", "url": "https://www.chunichi.co.jp/article/1338337"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times（自由時報英文版）", "note": "11/13 頭版以「台灣致力 AI 合作」為主軸，著重賴總統交付施振榮的任務。", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/13/2003867653"},
+            {"outlet": "中央社 Focus Taiwan", "note": "報導重點同樣放在 AI 合作訊息。", "url": "https://focustaiwan.tw/business/202611120006"}
+          ]
+        },
+        {
+          "title": "台灣暫停投資協定談判後，安華稱馬來西亞仍維持對台經貿往來",
+          "summary": "台灣外交部證實，因馬來西亞總理安華重申「一個中國」立場，原訂 10 月下旬的雙邊投資協定談判已暫停。安華 11/12 在國會淡化影響，表示沒有跡象顯示投資人撤資，政府希望持續與台灣的商業往來，同時維持一個中國政策。SCMP 報導指出，馬方正設法安撫台灣晶片業投資人。",
+          "sources": [
+            {"outlet": "Bloomberg", "time": "11/12", "url": "https://bloomberg.com/news/articles/2026-11-12/malaysia-vows-to-keep-taiwan-trade-ties-while-sticking-to-one-china"},
+            {"outlet": "South China Morning Post", "time": "11/12", "url": "https://www.scmp.com/week-asia/politics/article/3374042/taiwan-pauses-malaysia-investment-talks-after-anwar-remarks-spark-fury-taipei"},
+            {"outlet": "Malaysiakini", "time": "11/12", "url": "https://www.malaysiakini.com/news/888950-anwar-unfazed-by-taiwan-suspending-investment-talks-says-numbers-going-up"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "經濟財經",
+      "items": [
+        {
+          "title": "輝達領導層風暴拖累，台股 11/12 收跌 2.63%",
+          "summary": "加權指數 11/12 收在 43,091.87 點，下跌 2.63%，盤中一度跌逾 1,100 點；台積電跌約 2.3%，廣達、緯穎等 AI 伺服器股跌幅超過 6%。日本與歐洲財經媒體都將跌勢歸因於輝達董事會研議撤換黃仁勳的消息，部分日媒也提到習近平重申統一帶來的地緣風險。",
+          "sources": [
+            {"outlet": "みんかぶ FX（日本）", "time": "11/12 17:29", "url": "https://fx.minkabu.jp/news/384291"},
+            {"outlet": "ad-hoc-news（德國）", "time": "11/12", "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/taiex-closes-down-2-63-prozent-at-43-091-87-as-nvidia-shock-hits-chips/70501045"}
+          ],
+          "local": [
+            {"outlet": "中央社 Focus Taiwan", "note": "指出外資當天在集中市場僅小幅賣超約新台幣 6.85 億元，與前幾天動輒數百億元的賣超相比明顯縮小。", "url": "https://focustaiwan.tw/business/202611120015"}
+          ]
+        },
+        {
+          "title": "MSCI 季度調整：台灣在三大指數權重連續第三季調升",
+          "summary": "MSCI 公布 11 月指數審核結果，台灣在新興市場指數的權重由 28.86% 升至 29.01%，在全球（ACWI）與亞洲（不含日本）指數也同步上調，11/30 收盤後生效。南亞電路板、景碩、台燿等先前延後納入的個股這次加入標準指數，台積電在 MSCI 台灣指數的權重則下降 0.25 個百分點。",
+          "sources": [
+            {"outlet": "Investing.com", "time": "11/12", "url": "https://ph.investing.com/news/stock-market-news/msci-announces-november-2026-index-review-changes-93CH-2693518"},
+            {"outlet": "MSCI 官方公告", "time": "11/12", "url": "https://www.msci.com/eqb/gimi/stdindex/MSCI_Nov26_STPublicList.pdf"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times（自由時報英文版）", "note": "列出各指數權重的詳細數字，並指出這是 MSCI 連續第三季同步調高台灣權重。", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/13/2003867636"},
+            {"outlet": "中央社 Focus Taiwan", "note": "11/12 報導同一消息。", "url": "https://focustaiwan.tw/business/202611120014"}
+          ]
+        },
+        {
+          "title": "新台幣 11/12 收 32.889 兌 1 美元，資金外流壓力持續",
+          "summary": "美元兌新台幣 11/12 收在 32.889 元，新台幣貶值 2.9 分，盤中最弱到 32.994。央行總裁楊金龍先前表示，11 月以來外資約匯出 100 億美元，部分屬於股利與獲利匯回的季節性因素。",
+          "note": "本次搜尋只找到台灣媒體報導",
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/12", "url": "https://focustaiwan.tw/business/202611120016"},
+            {"outlet": "中央社 Focus Taiwan（11/10 背景）", "time": "11/10", "url": "https://focustaiwan.tw/business/202611100013"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "name": "半導體與供應鏈",
+      "items": [
+        {
+          "title": "黃仁勳辭去輝達執行長，台灣 AI 供應鏈評估衝擊",
+          "summary": "輝達董事會宣布黃仁勳辭去總裁、執行長與董事職務，立即生效，由財務長克蕾絲（Colette Kress）暫代執行長。此前他承認婚外情，且其中一名交往對象被美方指涉嫌替中國從事間諜活動，FBI 與美國國會已介入調查。路透報導，亞洲供應商正為「後黃仁勳時代」做準備，有台灣供應商擔心繼任者擴產腳步會放慢。",
+          "tag": "持續追蹤",
+          "sources": [
+            {"outlet": "Al Jazeera", "time": "11/12", "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo"},
+            {"outlet": "CBS News", "time": "11/12", "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/"},
+            {"outlet": "The Washington Post", "time": "11/12", "url": "https://www.washingtonpost.com/technology/2026/11/12/nvidia-board-weighs-jensen-huangs-future-after-affair-with-allege-chinese-spy/"},
+            {"outlet": "Reuters（933thedrive 轉載）", "time": "11/12", "url": "https://www.933thedrive.com/2026/11/12/nvidias-asian-supply-chain-prepares-for-life-after-huang/"}
+          ],
+          "local": [
+            {"outlet": "經濟日報（聯合新聞網）", "note": "以經濟部長龔明鑫回應為主：AI 趨勢不會因個人因素大幅改變，全球高階 AI 伺服器目前幾乎只能在台灣生產，短期訂單尚未明顯受影響。", "url": "https://money.udn.com/money/story/7307/9875609"},
+            {"outlet": "自由財經", "note": "著重市場面，預期台灣 AI 概念股將承壓。", "url": "https://ec.ltn.com.tw/article/breakingnews/5639009"}
+          ]
+        },
+        {
+          "title": "鴻海第三季獲利年增 34%，優於市場預期",
+          "summary": "鴻海 11/12 公布第三季淨利約新台幣 775 億元，年增 34%，高於 LSEG 調查的市場預估；營收約 3.02 兆元，雲端網路產品占比達 54%。公司看好 2027 年 AI 機櫃出貨將有高雙位數成長，但董事長劉揚偉提醒晶片、記憶體等零組件供應仍然吃緊。",
+          "sources": [
+            {"outlet": "Reuters（Investing.com 轉載）", "time": "11/12", "url": "https://www.investing.com/news/stock-market-news/taiwans-foxconn-reports-34-rise-in-q3-profit-beats-forecasts-5020447"},
+            {"outlet": "MarketScreener", "time": "11/12", "url": "https://www.marketscreener.com/news/foxconn-posts-higher-q3-attributable-profit-revenue-up-ce785ed8db89f123"}
+          ],
+          "local": [
+            {"outlet": "中央社 Focus Taiwan", "note": "標題強調單季獲利創歷史新高。", "url": "https://focustaiwan.tw/business/202611120018"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技與產業",
+      "items": [
+        {
+          "title": "台積電證實員工個資外洩，稱來源是雲端服務商",
+          "summary": "駭客在暗網兜售據稱約 4.6 萬筆台積電現任與前任員工資料，開價 3 枚比特幣。台積電證實部分員工資料遭外流，但表示資料與某雲端服務供應商系統內的資料相符，與營運及客戶資料無關，也沒有證據顯示自身系統遭入侵。公司未公布供應商名稱與受影響人數，正與執法單位及外部資安公司調查。",
+          "sources": [
+            {"outlet": "Wccftech", "time": "11/12", "url": "https://wccftech.com/taiwan-chip-giant-tsmc-acknowledges-hack-of-reportedly-49000-employee-files-occurred-but-says-leaked-data-matches-that-stored-with-external-cloud-provider/"},
+            {"outlet": "The Crypto Times", "time": "11/12", "url": "https://www.cryptotimes.io/2026/11/12/tsmc-confirms-employee-data-leak-after-hacker-demands-3-btc/"}
+          ],
+          "note": "外洩筆數各家說法不一（4.6 萬或 4.9 萬筆），屬賣方宣稱，待確認。"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "社會、文化、觀光、運動",
+      "items": [
+        {
+          "title": "外媒關注黃仁勳在台灣「搖滾巨星」形象受損",
+          "summary": "華盛頓郵報與《財星》雜誌都以黃仁勳在出生地台灣的聲望為題，描述他過去在台灣的高人氣，以及醜聞後形象受到的衝擊。報導也提到，台灣情治單位正調查涉案女子如何多次入境台灣。BBC 中文與路透則先後到台北街頭訪問民眾反應。",
+          "sources": [
+            {"outlet": "The Washington Post", "time": "11/12", "url": "https://www.washingtonpost.com/world/2026/11/12/taiwan-jensen-alice-huang-nvidia/e93887ae-de8a-11f1-912c-4fbb80d73f7f_story.html"},
+            {"outlet": "Fortune", "time": "11/12", "url": "https://fortune.com/2026/11/12/jensen-huang-taiwan-spy-scandal/"}
+          ],
+          "local": [
+            {"outlet": "自由時報", "note": "報導 BBC 與路透赴台街訪，受訪店家多表示難以置信。", "url": "https://news.ltn.com.tw/news/world/breakingnews/5637101"},
+            {"outlet": "Taipei Times（自由時報英文版）", "note": "內政部長劉世芳表示，該名持香港護照入境的女子入台許可已被撤銷。", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867589"}
+          ]
+        },
+        {
+          "title": "11/28 核電公投前，立委辯論經濟效益與核安",
+          "summary": "11/28 將與地方選舉同日舉行的核能公投，題目詢問是否支持以核能振興經濟、廢除「非核家園」政策。立委在公投辯論中就經濟效益、電價、能源安全與核安意見分歧；環保與法律團體則呼籲投下不同意票。",
+          "note": "本次搜尋只找到台灣媒體報導",
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/12", "url": "https://focustaiwan.tw/politics/202611120023"},
+            {"outlet": "Taipei Times（自由時報英文版）", "time": "11/12", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867605"}
+          ]
+        },
+        {
+          "title": "辜仲諒連任亞洲棒球總會會長",
+          "summary": "亞洲棒球總會（BFA）在台北召開會員大會，台灣的辜仲諒無異議連任會長。他表示第二任期將加強培訓球員、教練與裁判，擴大學生棒球交流，長期目標是推動亞洲職棒聯盟。",
+          "note": "本次搜尋只找到台灣媒體報導",
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/12", "url": "https://focustaiwan.tw/sports/202611120020"}
+          ]
+        }
+      ]
+    }
+  ],
+  "search_notes": {
+    "not_found": [
+      "AP、AFP、BBC（英文）、NYT、WSJ、FT、The Economist：本次搜尋沒有找到時間範圍內以台灣為主題、可直接連結的原文（NYT、WSJ 的黃仁勳獨家只見於其他媒體轉述）",
+      "Nikkei（只找到台股日報類短訊）、NHK、共同社、朝日、韓聯社、Straits Times：沒有找到時間範圍內的相關報導",
+      "DW、France 24、Le Monde：沒有找到時間範圍內的相關報導",
+      "本次執行環境無法直接連線 focustaiwan.tw 與 Google News，所有內容依搜尋引擎結果整理，報導時間多只能標示到日期"
+    ],
+    "paywalled": [
+      "Bloomberg：馬來西亞維持對台經貿一文只看得到標題與導言",
+      "The Washington Post：黃仁勳相關兩篇報導只看得到導言",
+      "Reuters 原文需訂閱，本頁以轉載路透稿的媒體連結代替"
+    ]
+  }
+}
