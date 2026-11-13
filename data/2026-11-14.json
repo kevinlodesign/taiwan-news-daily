@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-14",
+  "window": "2026-11-13 06:00 – 2026-11-14 05:00（台北時間）",
+  "highlights": [
+    "黃仁勳辭去輝達執行長後，台股 11/13 反彈 1.35% 收在 43,675 點，外資結束連 11 日賣超，路透稱台股寫下 2002 年以來最佳單週表現。",
+    "輝達風波延燒到美國政壇：眾院議長強森稱國會正形成限制對中晶片出口的共識，商務部長盧特尼克的出口管制把關也受檢視，中國外交部則警告美方不要濫用出口管制。",
+    "台灣官員形容共軍本月初未具名、未公告的大規模西太平洋演習是「無聲恫嚇」，法國 24 新聞台整理指出北京模擬封鎖但並未實際封鎖台灣。"
+  ],
+  "categories": [
+    {
+      "id": "security",
+      "name": "兩岸與軍事安全",
+      "items": [
+        {
+          "title": "共軍未具名、未公告的西太平洋演習，台灣官員稱是「無聲恫嚇」",
+          "summary": "台灣安全官員表示，共軍與中國海警本月初在西太平洋與台灣周邊集結逾百艘船艦，進行未公開宣布、也未命名的大規模演習，海上兵力規模大於去年底的「正義使命-2025」。法國 24 新聞台 11/13 整理指出，北京這次是模擬封鎖台灣，並沒有實際實施封鎖；中方則把航艦活動定調為不針對特定國家的例行訓練。外媒普遍把這波施壓放在下週 APEC 深圳峰會與川習會之前的背景下解讀。",
+          "tag": "持續追蹤",
+          "sources": [
+            {"outlet": "France 24", "time": "11/13", "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times（自由時報英文版）", "note": "11/14 頭版引述路透稿，強調外國情報來源認為不命名演習是刻意安排，讓北京施加軍事壓力又避免外交反彈。", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710"}
+          ]
+        },
+        {
+          "title": "軍用無人機藏中國晶片，台中地檢署起訴業者夫婦",
+          "summary": "台中地檢署 11/13 依國家安全法、偽造文書與詐欺等罪名，起訴無人機業者 Align（中文名待確認）負責人與其妻，各求刑 5 年以上。檢方指控業者明知契約禁止使用中國製零組件，仍在交付軍方的訓練用與投擲用無人機中使用中國晶片，並在產地證明上謊稱台灣設計製造。",
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/13", "url": "https://focustaiwan.tw/society/202611130017"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "點名負責人為 Tu Ta-sen（中文姓名待確認），並說明陸軍軍官學校與陸軍後勤指揮部驗收時發現標示「China」的晶片。", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867711"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "陸委會第三季中國情勢報告：北京「懲獨」擴及親屬與企業",
+          "summary": "陸委會 11/13 公布 2026 年第三季中國大陸情勢報告，指出中共持續以「懲獨」配合「促融、促統」，懲戒對象延伸到台灣人士的家屬與關聯企業，例如國台辦證實懲戒立委沈伯洋父親關聯的企業。報告也提到國台辦上線「台青e家」平台，以及福建等地陸續推出「融台」措施。",
+          "sources": [
+            {"outlet": "自由時報", "time": "11/13", "url": "https://news.ltn.com.tw/news/politics/breakingnews/5639381"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "另報導學者研討會觀點，認為北京高調紀念孫中山誕辰是在 11/28 地方選舉前的統戰手法。", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/14/2003867729"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "name": "國際外交",
+      "items": [
+        {
+          "title": "中國外交部警告美國勿濫用出口管制，川習 APEC 會面前角力升溫",
+          "summary": "美國國會因輝達風波醞釀加強對中晶片出口限制，中國外交部發言人毛寧 11/13 在例行記者會上表示，中方一貫反對濫用出口管制，認為會破壞全球產業鏈與供應鏈穩定。她並呼籲中美雙方落實兩國元首先前達成的共識。外電指出，這番表態出現在川普與習近平預計下週於深圳 APEC 峰會會面之前，台灣議題與晶片管制都被視為會談背景。",
+          "sources": [
+            {"outlet": "Malay Mail", "time": "11/13", "url": "https://www.malaymail.com/news/world/2026/11/13/china-warns-us-against-more-chip-export-controls-after-nvidia-scandal/243121"},
+            {"outlet": "24 News HD", "time": "11/13", "url": "https://www.24newshd.tv/13-Nov-2026/china-warns-new-export-controls-us-chips-nvidia-scandal"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "經濟財經",
+      "items": [
+        {
+          "title": "台股 11/13 反彈 1.35%，路透：寫下 2002 年以來最佳單週表現",
+          "summary": "台股加權指數 11/13 上漲 583.25 點、漲幅 1.35%，收在 43,675.12 點，約收復前一日 1,165 點跌幅的一半。路透指出，台股本週從先前的 AI 股修正中強力反彈，寫下 2002 年以來最佳單週表現。台積電終場上漲 10 元收 2,350 元，日本外匯資訊網站 Minkabu 則形容台股「大幅反彈」，半導體股帶動買盤。",
+          "sources": [
+            {"outlet": "Reuters（MarketScreener 轉載）", "time": "11/13", "url": "https://www.marketscreener.com/news/taiwan-shares-post-best-week-since-2002-on-rebound-from-nvidia-crisis-ce785ed9da8af226"},
+            {"outlet": "みんかぶ（Minkabu）", "time": "11/13 18:29", "url": "https://fx.minkabu.jp/news/384411"},
+            {"outlet": "中央社 Focus Taiwan", "time": "11/13", "url": "https://focustaiwan.tw/business/202611130009"}
+          ],
+          "local": [
+            {"outlet": "ETtoday 財經雲", "note": "聚焦台積電尾盤出現 4,061 張賣單、漲幅收斂到 0.43%。", "url": "https://finance.ettoday.net/news/3271594"}
+          ]
+        },
+        {
+          "title": "外資結束連 11 日賣超，新台幣 11/13 升值收 32.838",
+          "summary": "新台幣 11/13 兌美元收 32.838 元，升值 5.1 分，台北與元太外匯經紀公司合計成交量放大到 31.17 億美元。財經網站 BigGo 報導，外資當天轉為買超約新台幣 288 億元，結束連續 11 個交易日賣超；交易員認為前兩日賣超已縮小到不到 10 億元，賣壓可能告一段落。",
+          "sources": [
+            {"outlet": "BigGo Finance", "time": "11/13", "url": "https://finance.biggo.com/news/2111b2a7-6121-4c32-8f55-2cec6ac64667"}
+          ],
+          "local": [
+            {"outlet": "中央社 Focus Taiwan", "note": "只報匯價收盤：美元兌新台幣跌 0.051 元，收 32.838 元。", "url": "https://focustaiwan.tw/business/202611130012"}
+          ],
+          "note": "外資買超金額只找到 BigGo 一家報導，數字待證交所資料確認"
+        }
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "name": "半導體與供應鏈",
+      "items": [
+        {
+          "title": "美眾院議長：國會正形成限制對中晶片出口的共識",
+          "summary": "路透報導，美國眾議院議長強森 11/12（美東時間）表示，在輝達間諜疑雲之後，國會對限制 AI 晶片出口中國逐漸形成共識，他本人也支持。國會正推動至少四項相關法案，包括強化國會監督的 AI Overwatch Act，以及要求追蹤先進晶片位置的 Chip Security Act，共和黨也想把限制條款放進年度國防授權法。報導指出，中國取得部分輝達晶片的管道因此蒙上變數。",
+          "sources": [
+            {"outlet": "Reuters（The Korea Times 轉載）", "time": "11/13", "url": "https://www.koreatimes.co.kr/world/20261113/chinas-access-to-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "放在財經版，連結台灣晶片供應商最擔心的變數是美國對中出口規定。", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/14/2003867699"}
+          ]
+        },
+        {
+          "title": "輝達風波波及美商務部長盧特尼克，同意赴參院說明晶片管制",
+          "summary": "Bloomberg 與 CNBC 報導，涉嫌為中國從事間諜活動的女子所屬新加坡公司 Megaspeed 曾遭商務部調查，國會兩黨因此質疑商務部長盧特尼克沒有及早把該公司列入實體清單。CNBC 指盧特尼克已同意出席參院銀行委員會說明，聽證會預定 12/10 舉行；財政部長貝森特也公開表示其他部會早就主張列管。",
+          "sources": [
+            {"outlet": "Bloomberg", "time": "11/13", "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-crisis-prompts-scrutiny-of-lutnick-s-role-in-chip-policy"},
+            {"outlet": "CNBC", "time": "11/13", "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "以外電稿刊出，未另加台灣觀點。", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/14/2003867697"}
+          ]
+        },
+        {
+          "title": "台灣 AI 供應鏈評估：黃仁勳去職影響有限",
+          "summary": "中央社訪問業者與分析師，多數認為輝達執行長更替不會明顯衝擊台灣供應商，因為 GPU 設計複雜、供應商認證期長，輝達很難在短期內換供應商。業界認為真正的風險是美國對中出口規定的變化，例如 H200 出貨規則的修訂。",
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/13", "url": "https://focustaiwan.tw/business/202611130015"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "標題為「晶片供應商不受黃仁勳去職影響」，並列出美國出口規定是主要隱憂。", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/14/2003867695"}
+          ],
+          "note": "本次搜尋在時間範圍內只找到台灣媒體報導"
+        },
+        {
+          "title": "日月光投控砸新台幣千億元在高雄路竹建兩座新廠",
+          "summary": "全球最大封測廠日月光投控宣布投資約新台幣 1,000 億元（約 30.5 億美元），在高雄路竹興建兩座新廠，擴充 AI 相關產能。報導指出第一期已啟用、第二期動工，路竹將成為集團在楠梓總部之外的第二個生產重鎮。",
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/14", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/14/2003867696"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技與產業",
+      "items": [
+        {
+          "title": "台北市府：輝達北士科總部計畫不受影響",
+          "summary": "黃仁勳辭職後，台北市政府表示輝達台灣子公司仍履行北投士林科技園區總部的所有契約義務，計畫沒有受到影響。同一篇報導也提到，涉及間諜疑雲的女子已被撤銷入境許可，無法再來台。",
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/14", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/14/2003867723"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "強固型電腦需求帶動，神基預估明年營收成長 5～10%",
+          "summary": "強固型電腦製造商神基科技預估明年營收將年增 5% 至 10%，主要動能來自強固型 PC 業務。",
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/14", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/14/2003867698"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "社會、文化、觀光、運動",
+      "items": [
+        {
+          "title": "立法院三讀：產假延長為 14 週、陪產假增至 14 天",
+          "summary": "立法院 11/13 三讀修法，產假由 8 週延長到 14 週，陪產檢及陪產假也增加到 14 天；行政院原版本為 12 週，國民黨與民眾黨主張 14 週。新法也放寬育嬰留職停薪，子女年齡上限由 3 歲提高到 9 歲。",
+          "sources": [
+            {"outlet": "中央社", "time": "11/13", "url": "https://www.cna.com.tw/news/aipl/202611130229.aspx"},
+            {"outlet": "中央社 Focus Taiwan", "time": "11/13", "url": "https://focustaiwan.tw/politics/202611130016"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "11/14 頭版，寫陪產假由 7 天倍增為 14 天，與中央社中文稿的 8 天說法不同（待確認）。", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867712"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "亞洲職棒冠軍爭霸賽：台灣逆轉澳洲 6:4 拿下首勝",
+          "summary": "在東京巨蛋舉行的 2026 亞洲職棒冠軍爭霸賽，台灣隊 11/13 中午以 6 比 4 逆轉擊敗澳洲，拿下本屆首勝；前一晚台灣以 0 比 5 敗給日本。台灣 11/14 晚間將對戰韓國，冠軍戰 11/15 舉行。",
+          "sources": [
+            {"outlet": "スポニチアネックス（Yahoo!ニュース 轉載）", "time": "11/13", "url": "https://news.yahoo.co.jp/articles/2152bfeb2d08fe0f9a2182daf94163d2c9b0b7c9"},
+            {"outlet": "WBSC", "time": "11/13", "url": "https://www.wbsc.org/en/news/asia-professional-baseball-championship-2026-four-teams-ready-for-tokyo-dome-showdown"}
+          ]
+        },
+        {
+          "title": "新北市長候選人李四川、蘇巧慧政見會各自提出城市願景",
+          "summary": "新北市長候選人國民黨李四川與民進黨蘇巧慧 11/13 出席電視政見發表會。李四川主打強化與台北的交通連結、打造 AI 產業廊帶；蘇巧慧則提出在新北各地設立產業園區。日本 Minkabu 也報導，六都市長選舉的競選活動 11/13 正式開跑，11/28 投開票。",
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/13", "url": "https://focustaiwan.tw/politics/202611130007"},
+            {"outlet": "みんかぶ（Minkabu）", "time": "11/13", "url": "https://fx.minkabu.jp/news/384377"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "11/14 選舉專題，內容與中央社相近。", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/14/2003867730"}
+          ]
+        },
+        {
+          "title": "木村拓哉抵台，為台北演唱會向粉絲打招呼",
+          "summary": "日本藝人木村拓哉 11/13 抵達台北，準備舉行兩場演唱會，並向到場的台灣粉絲致意。",
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/13", "url": "https://focustaiwan.tw/culture/202611130004"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "洪秀卿在世界公開賽裝備式健力錦標賽深蹲項目奪金",
+          "summary": "中央社 11/13 頭條彙整提到，台灣健力選手洪秀卿在 2026 世界公開賽裝備式健力錦標賽拿下深蹲項目金牌。量級與成績本次未能查證（待確認）。",
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/13", "url": "https://focustaiwan.tw/society/202611130002"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    }
+  ],
+  "search_notes": {
+    "not_found": [
+      "AP、AFP（只找到 11/12 的美光工會新聞，不在時間範圍內）、BBC、NYT、WSJ、FT、The Guardian、The Economist：本次搜尋沒有找到時間範圍內以台灣為主題、可直接連結的原文",
+      "Nikkei Asia（只找到 11/9 中國願增購巴紐天然氣等較早報導）、NHK、共同社、朝日、韓聯社、SCMP、Straits Times：沒有找到時間範圍內的台灣主題報導",
+      "DW、Le Monde、Al Jazeera：沒有找到時間範圍內的相關報導",
+      "新華社、環球時報：沒有找到 11/13 以台灣為主題、可確認日期的報導；國台辦最近一場例行記者會是 11/11",
+      "路透「無聲恫嚇」演習原稿與「輝達亞洲供應鏈」分析稿發布於 11/12，不在本次時間範圍，只在摘要中引用其內容",
+      "本次執行環境無法直接連線 taipeitimes.com、yahoo.com、marketscreener.com，所有內容依搜尋引擎結果整理，報導時間多只能標到日期"
+    ],
+    "paywalled": [
+      "Bloomberg：盧特尼克相關報導只看得到標題與導言",
+      "Reuters 原文需訂閱，本頁用轉載路透稿的媒體連結代替"
+    ]
+  }
+}
