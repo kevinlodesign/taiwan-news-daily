@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-15",
+  "window": "2026-11-14 06:00 – 2026-11-15 05:00（台北時間）",
+  "highlights": [
+    "國防部 11/14 公布，過去 24 小時偵獲共機 10 架次、共艦 8 艘、公務船 3 艘，其中 4 架戰機越過海峽中線；海巡也持續監控東部海域的中國海警船。",
+    "白宮證實川普、習近平、普丁將在 APEC 深圳峰會期間舉行首次三方會談，主軸是核不擴散；外媒目前沒有報導台灣議題列入議程。",
+    "路透特稿指出，黃仁勳離開輝達後，台灣供應鏈少了一位經營數十年人脈的關鍵人物；台積電則規劃設立 5 億美元創投基金扶植晶片新創。"
+  ],
+  "categories": [
+    {
+      "id": "security",
+      "name": "兩岸與軍事安全",
+      "items": [
+        {
+          "title": "國防部：24 小時內共機 10 架次、共艦 8 艘，4 架越過中線",
+          "summary": "台灣國防部 11/14 公布，截至當天上午 6 時的 24 小時內，偵獲中國軍機 10 架次、軍艦 8 艘與公務船 3 艘，其中 4 架戰機越過海峽中線、進入防空識別區，國軍派遣機艦監控。本月累計偵獲共機 184 架次、艦船 141 艘次。這是在共軍本月初未具名大規模演習之後，對台壓力仍持續的最新數據。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {"outlet": "Voice of Emirates", "time": "11/14", "url": "https://www.voiceofemirates.com/en/politics/2026/11/14/taiwans-defense-ministry-detects-intensive-chinese-military-activity-around-the-island/"}
+          ]
+        },
+        {
+          "title": "東部海域無線電交鋒後，海巡持續監控中國海警船",
+          "summary": "海巡署表示，11/12（週四）在東部海域與中國海警船發生無線電喊話交鋒後，仍持續派艦監控仍在台灣東方活動的海警船。中國自今年 6 月起在台灣東部海域常態派出海警「執法巡查」，台灣官員認為可能是演練海上封鎖；海巡先前也批評對方以無線電干擾商船、宣示管轄權違反國際法。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/14", "url": "https://focustaiwan.tw/politics/202611140008"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；海警船編號與詳細經過待確認。"
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "name": "國際外交",
+      "items": [
+        {
+          "title": "白宮證實川習普將在 APEC 深圳峰會舉行首次三方會談",
+          "summary": "白宮 11/13 證實，川普、習近平與普丁將在下週 APEC 深圳峰會場邊舉行三國領袖首次三方會談，美方說主軸是核不擴散，並預期不會達成協議；伊朗也可能被討論，烏克蘭則不在議程上。中國先前曾拒絕加入三方核裁軍談判。外媒報導目前沒有提到台灣議題列入三方會談，但川習雙邊會談與台灣派施振榮出席峰會，仍是台灣關注重點。",
+          "prc": false,
+          "tag": "APEC 前瞻",
+          "sources": [
+            {"outlet": "AP（Manila Times 轉載）", "time": "11/14", "url": "https://www.manilatimes.net/2026/11/14/world/asia-oceania/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says/2469943"},
+            {"outlet": "Al Jazeera", "time": "11/14", "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"}
+          ],
+          "note": "這則報導本身沒有直接談台灣，收錄是因為與台灣出席的 APEC 峰會相關。"
+        },
+        {
+          "title": "外交部：五友邦在 COP31 發言支持台灣參與氣候合作",
+          "summary": "外交部表示，五個邦交國在土耳其安塔利亞舉行的聯合國氣候大會 COP31 上公開支持台灣參與國際氣候合作。台灣不是《聯合國氣候變化綱要公約》締約方，今年也沒有受邀，環境部改在會期間自辦氣候合作會議並參加周邊活動。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/14", "url": "https://focustaiwan.tw/politics/202611140009"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times（自由時報英文版）", "note": "11/15 頭版刊出，標題以友邦為台灣發聲為重點。", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/15/2003867755"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；五個友邦國名待確認。"
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "經濟財經",
+      "items": [
+        {
+          "title": "輝達單週市值蒸發約 5,730 億美元，美股晶片股承壓",
+          "summary": "聯合報整理指出，輝達 11/13 股價再跌約 2%，整週重挫約 13%，市值一週蒸發約 5,730 億美元，創歷來最大單週跌幅。市場擔心黃仁勳去職後美國收緊對中國晶片出口，台股與台灣 AI 供應鏈下週動向仍受輝達消息與 APEC 川習會牽動。",
+          "prc": false,
+          "sources": [
+            {"outlet": "聯合新聞網", "time": "11/14", "url": "https://udn.com/news/story/6811/9879200"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；數字依聯合報整理，美股收盤細節待確認。"
+        },
+        {
+          "title": "中油：下週汽柴油價格不調整",
+          "summary": "台灣中油宣布，自 11/15（週日）起一週國內汽油、柴油價格維持不變。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/14", "url": "https://focustaiwan.tw/business/202611140010"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        }
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "name": "半導體與供應鏈",
+      "items": [
+        {
+          "title": "路透特稿：黃仁勳離開輝達，台灣科技業少了關鍵人物",
+          "summary": "路透記者李文儀（Wen-Yee Lee，中文名待確認）與 Ben Blanchard 撰寫特稿指出，黃仁勳對許多台灣人而言不只是英雄，他花數十年與台灣科技業領袖建立私人關係，打造出支撐輝達 AI 霸業的供應商網絡。業界普遍認為短期訂單不受影響，但也有供應商主管擔心新執行長未必能像黃仁勳一樣快速爭取到產能。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {"outlet": "Reuters（Taipei Times 轉載）", "time": "11/15", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867777"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times 社論", "note": "11/15 社論以「黃仁勳辭職不是終點」為題，評論後續影響。", "url": "https://www.taipeitimes.com/News/editorials/archives/2026/11/15/2003867747"}
+          ]
+        },
+        {
+          "title": "台積電規劃 5 億美元創投基金，要找「下一個輝達」",
+          "summary": "台積電副共同營運長張曉強受訪表示，公司將設立規模 5 億美元的創投基金，扶植有潛力成為下一個輝達或博通的晶片新創，投資版圖可能擴及供應商。台積電董事會日前已通過設立投資公司，合計承諾投入最多 17 億美元，另包括對 OpenAI 與 Anthropic 的投資額度。",
+          "prc": false,
+          "sources": [
+            {"outlet": "聯合報（經濟日報）", "time": "11/14", "url": "https://money.udn.com/money/story/5612/9877838"}
+          ],
+          "note": "原始訪問由日經亞洲（Nikkei Asia）於 11/13 刊出，不在本次時間範圍；本則依聯合報 11/14 報導整理。"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技與產業",
+      "items": [
+        {
+          "title": "美國太空業者在 AIT 活動推銷衛星威脅偵測",
+          "summary": "美國在台協會（AIT）舉辦為期一週的活動，多家美國太空企業向台灣推介以衛星為基礎的威脅偵測與太空態勢感知技術，強調這應是台灣的優先項目。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/15", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/15/2003867754"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；參與企業名稱待確認。"
+        },
+        {
+          "title": "台糖：明年豬隻數量回升，有助穩定豬價",
+          "summary": "台糖預估明年養豬頭數將回升到約 20 萬頭，有助於穩定國內豬肉價格。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/15", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867766"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "社會、文化、觀光、運動",
+      "items": [
+        {
+          "title": "亞冠賽：台灣 4:6 不敵韓國，15 日與澳洲爭季軍",
+          "summary": "亞洲職棒冠軍爭霸賽 11/14 晚間在東京巨蛋進行，台灣以 4 比 6 輸給韓國，無緣冠軍戰；台灣 4 分全來自全壘打，20 歲的曾聖安單場兩轟，寫下隊史在本賽事最年輕開轟紀錄。韓國晉級冠軍戰對日本，台灣 11/15 上午與澳洲爭季軍。日本媒體賽前也關注這場比賽將決定日本隊的冠軍戰對手。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中日スポーツ（Yahoo! Japan 轉載）", "time": "11/14", "url": "https://news.yahoo.co.jp/articles/c770215049d156d0bfd865b0f6e9cdd06189f28a"}
+          ],
+          "local": [
+            {"outlet": "東森新聞", "note": "賽後報導強調台灣單場 3 轟仍惜敗，連續兩屆打季軍戰。", "url": "https://news.ebc.net.tw/news/sport/580713"},
+            {"outlet": "Yahoo 奇摩運動", "note": "聚焦曾聖安雙響砲。", "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD%E5%8F%B0%E9%9F%93%E5%A4%A7%E6%88%B0-%E5%8F%B0%E7%81%A3%E7%AC%AC5%E5%B1%80%E9%9B%99%E8%BD%9F3-3%E8%BF%BD%E5%B9%B3%E5%8D%97%E9%9F%93-113932972.html"}
+          ]
+        },
+        {
+          "title": "NHK：日本棒球代表隊明年 3 月赴台與台灣隊交流賽",
+          "summary": "NHK 報導，日本職棒（NPB）與台灣職棒共同宣布，日本棒球代表隊明年 3 月將在台灣與台灣代表隊進行交流賽。",
+          "prc": false,
+          "sources": [
+            {"outlet": "NHK", "time": "11/14", "url": "https://news.web.nhk/newsweb/na/nd-20261114de75949"}
+          ],
+          "note": "只看到標題與導言，比賽日期、場地與場次待確認。"
+        },
+        {
+          "title": "「廢除非核家園」公投電視辯論，正反方交鋒",
+          "summary": "11/28 與地方選舉同日舉行的「廢除非核家園」公投舉行電視意見發表會，正方主張廢除《環境基本法》相關條文以提升經濟競爭力與能源安全，反方則以地震風險與核廢料問題未解反對。這是 2018 年以來台灣第四次核能相關公投。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/14", "url": "https://focustaiwan.tw/politics/202611140014"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；雙方代表人選待確認。"
+        },
+        {
+          "title": "地方選舉前大規模掃黑，警方出動 4,000 人搜索 750 處",
+          "summary": "11/28 地方選舉前，警方出動約 4,000 名警力，同步搜索 750 處幫派據點，逮捕 320 名嫌犯，以防範暴力介入選舉。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/15", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867771"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        },
+        {
+          "title": "台北、高雄市長候選人首場政見發表會",
+          "summary": "台北市長選舉首場政見發表會中，現任市長蔣萬安（國民黨）為市政成績辯護，民進黨沈伯洋提出新的都市政策；高雄市長候選人賴瑞隆（民進黨）與柯志恩（國民黨）就經濟發展與彼此經歷交鋒，賴瑞隆提出興建新機場，AI 產業也是討論焦點。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/15", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867773"},
+            {"outlet": "Taipei Times", "time": "11/15", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867774"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        },
+        {
+          "title": "楊勇緯薩格勒布柔道大獎賽奪金",
+          "summary": "台灣柔道選手楊勇緯在克羅埃西亞薩格勒布柔道大獎賽男子 60 公斤級奪金，隊友 Lin Chong-you（中文名待確認）拿下銅牌。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/15", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/15/2003867757"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        },
+        {
+          "title": "達卡青奧霹靂舞，台灣選手摘銀",
+          "summary": "台灣霹靂舞選手 Lin Yung-yueh（中文名待確認）在塞內加爾達卡青年奧運霹靂舞項目拿下銀牌。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/14", "url": "https://focustaiwan.tw/sports/202611140006"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        },
+        {
+          "title": "氣象署：兩波東北季風報到，北部低溫下探 15 度",
+          "summary": "中央氣象署預估將有兩波東北季風影響台灣，第二波較強、預計週三（11/18）抵達，桃園以北與宜蘭夜間低溫約 15 至 16 度。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/15", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867770"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        }
+      ]
+    }
+  ],
+  "search_notes": {
+    "not_found": [
+      "本次時間範圍為週六，國際媒體以台灣為主題的新報導明顯較少。",
+      "AP、AFP、BBC、NYT、WSJ、FT、The Guardian、The Economist：沒有找到時間範圍內以台灣為主題的報導（AP 只有川習普三方會談稿）。",
+      "Bloomberg：最新台灣相關報導停在 11/12 以前。",
+      "Nikkei Asia：最新台灣報導為 11/13 台積電創投基金訪問，不在時間範圍內；共同社、朝日、韓聯社、Straits Times、DW、France 24、Le Monde：沒有找到時間範圍內的台灣主題報導。",
+      "SCMP：最新台灣報導為 11/12～11/13（巴紐辦事處、施振榮出席 APEC、習近平孫中山誕辰談話），不在時間範圍內。",
+      "新華社、環球時報、國台辦：11/14 為週六，沒有找到新的對台報導或記者會；最近一場國台辦記者會是 11/11。",
+      "路透「中國演習模擬攻擊台灣城市」後續報導發布於 11/13，不在時間範圍內；Washington Times 報導台灣與美方聯合調查涉黃仁勳事件的女子（11/13 美國時間），無法確認是否落在時間範圍內，未收錄。",
+      "自由時報、聯合報 11/15 頭版：搜尋時尚未被索引。",
+      "本次執行環境無法直接連線 cna.com.tw、voiceofemirates.com、kyivpost.com、reuters.com，內容依搜尋引擎結果整理，報導時間多只能標到日期。"
+    ],
+    "paywalled": [
+      "Reuters 原文需訂閱，本頁用 Taipei Times 轉載連結代替。",
+      "NHK 交流賽報導：只看到標題與導言。"
+    ]
+  }
+}
