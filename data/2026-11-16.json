@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-16",
+  "window": "2026-11-15 06:00 – 2026-11-16 05:00（台北時間）",
+  "highlights": [
+    "美聯社分析指出，輝達前執行長黃仁勳涉諜醜聞正加劇美中 AI 競爭；美國官員表示川普本週在中國與習近平會面時不打算提起此事，輝達副總裁則在矽谷論壇強調公司與台灣的緊密關係。",
+    "國防部 11/15 公布偵獲共機 1 架次、共艦 8 艘與公務船 3 艘，數量較前幾日明顯下降；國安單位另示警一個疑似與中國有關、蒐集台灣將領個資的臉書粉專。",
+    "NHK 與產經新聞報導，屏東恆春潮音寺 11/15 舉行巴士海峽戰歿者慰靈祭，日本自民黨眾議員新藤義孝成為首位出席的現任國會議員；亞洲職棒冠軍賽台灣 4:6 不敵澳洲，排名最後。"
+  ],
+  "categories": [
+    {
+      "id": "security",
+      "name": "兩岸與軍事安全",
+      "items": [
+        {
+          "title": "國防部：共機 1 架次、共艦 8 艘、公務船 3 艘在台灣周邊活動",
+          "summary": "台灣國防部 11/15（週日）公布，過去 24 小時偵獲中國軍機 1 架次、海軍艦艇 8 艘與公務船 3 艘在台灣周邊活動，軍機與艦艇進入台灣防空識別區。前一天的數字為共機 10 架次，本日空中活動明顯減少，但艦艇數量持平。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {"outlet": "Breaking The News", "time": "11/15", "url": "https://breakingthenews.net/Article/Taiwan-detects-several-Chinese-ships-jets/67564991"}
+          ]
+        },
+        {
+          "title": "國安單位示警：疑中國相關臉書粉專蒐集台灣將領個資",
+          "summary": "台灣國安官員提醒國軍官兵，一個名為「Dreaming of China」（中文名稱待確認）的臉書粉專近期開始發布現役與退役將領相關貼文，疑似在蒐集軍方人員個資。官員表示，該粉專管理者位於香港，經營手法類似商業內容農場。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/16/2003867803"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "海軍規劃建造潛艦救難艦",
+          "summary": "國防部規劃建造一艘潛艦救難艦，配合國造潛艦計畫，預計明年起建造、2034 年前完成。Taipei Times 報導金額約新台幣 138 億元，但今年初其他報導列出的預算為 132 億元、期程至 2033 年，確切金額與期程待確認。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867823"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "name": "國際外交",
+      "items": [
+        {
+          "title": "巴士海峽戰歿者慰靈祭，日本現任國會議員首度出席",
+          "summary": "屏東恆春潮音寺 11/15 舉行巴士海峽戰歿者慰靈祭，悼念二戰期間在台灣南方海域隨日軍艦船沉沒、據稱超過 10 萬人的罹難者，日本遺族約 130 人參加。產經新聞指出，自民黨眾議員新藤義孝是首位出席的現任國會議員，並在會中致悼詞。",
+          "prc": false,
+          "sources": [
+            {"outlet": "NHK", "time": "11/15 18:34", "url": "https://news.web.nhk/newsweb/na/nd-20261115de76223"},
+            {"outlet": "產經新聞（Yahoo! Japan 轉載）", "time": "11/15", "url": "https://news.yahoo.co.jp/articles/728a2f7765ebc2bf1328d2c6211facdb9323f608"}
+          ]
+        },
+        {
+          "title": "外交部資料外洩後強化資安措施",
+          "summary": "外交部在發生資料外洩事件後，推出更嚴格的資訊安全措施。外交部去年曾調查電子公文疑在暗網兜售的傳聞，今年也針對駐外館處資安提出改善措施。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/16/2003867805"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；新措施細節待確認"
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "經濟財經",
+      "items": [
+        {
+          "title": "國內汽柴油價格連續第 9 週不調整",
+          "summary": "中油與台塑化本週維持國內汽柴油價格不變，是連續第 9 週凍漲。業者依浮動油價機制計算後，並沒有調整零售價格。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/16/2003867792"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "name": "半導體與供應鏈",
+      "items": [
+        {
+          "title": "美聯社：輝達醜聞加劇美中 AI 競爭，川普不打算向習近平提起",
+          "summary": "美聯社分析指出，黃仁勳因被指與疑似中國間諜有婚外情而辭去輝達執行長，可能讓美中在 AI 晶片上的對抗更加激烈；國會鷹派因此有了要求收緊晶片出口管制的具體案例。美國資深官員表示，川普本週在中國與習近平會面時不打算提起輝達案，也不預期美方堵住現有管制漏洞會招致中國報復。",
+          "prc": false,
+          "sources": [
+            {"outlet": "AP（Taipei Times 轉載）", "time": "11/16", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/16/2003867788"},
+            {"outlet": "AP（1News 轉載）", "time": "11/15", "url": "https://www.1news.co.nz/2026/11/15/nvidia-scandal-sharpens-us-china-ai-rivalry-before-trump-visit/"},
+            {"outlet": "AP（ABC News 轉載）", "time": "11/14（美國時間）", "url": "https://abcnews.com/US/wireStory/nvidia-scandal-heightening-americas-ai-rivalry-china-ahead-138135792"}
+          ],
+          "note": "美聯社原稿發布於美國時間 11/13–14，時間範圍內為轉載版本"
+        },
+        {
+          "title": "輝達副總裁在矽谷台美科技論壇：「輝達愛台灣」",
+          "summary": "輝達副總裁 Deepu Talla 在加州山景城電腦歷史博物館舉行的台美高科技論壇發表主題演講，強調輝達與台灣供應鏈的密切關係。論壇由北美台灣工程師協會矽谷分會主辦、國科會協辦，主題包括 AI 代理、機器人與主權 AI；演講是在黃仁勳辭去執行長之後舉行。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/16/2003867804"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技與產業",
+      "items": [
+        {
+          "title": "消息人士：小紅書限制措施將再延長一年",
+          "summary": "據消息人士透露，內政部預計自 12/3 起，將對中國社群平台小紅書的封鎖措施再延長一年。內政部表示已正式通知母公司行吟資訊科技改善防詐措施，但尚未獲得回覆；官方統計封鎖後相關詐騙案件大幅下降。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867815"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；尚非官方正式公告"
+        },
+        {
+          "title": "刑事局示警：冒用黃仁勳名義的簡訊詐騙",
+          "summary": "刑事警察局提醒民眾，有詐騙集團冒充輝達前執行長黃仁勳傳送簡訊、向收訊者要錢，並以此案例宣導防詐。刑事局表示目前尚未接獲有人受騙的報案。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/society/202611150010"},
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867816"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "台糖旗山糖廠園區取得碳足跡查證",
+          "summary": "台糖旗山糖廠取得碳足跡查證證書，獲得綠色認證。這是台糖推動舊糖廠轉型為低碳園區的一環。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867817"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "社會、文化、觀光、運動",
+      "items": [
+        {
+          "title": "亞冠賽季軍戰台灣 4:6 不敵澳洲，排名最後",
+          "summary": "亞洲職棒冠軍賽 11/15 在東京巨蛋進行季軍戰，台灣 2 局先馳得點，但 5 局投手群出現 4 次四死球、一口氣失 6 分，最終以 4:6 輸給澳洲，排名第四、也是最後一名。中央社指出，這是澳洲 2023 年加入後台灣在本賽事的最差成績；澳洲則由前中日龍選手 David Nilsson 擔任總教練。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中日スポーツ", "time": "11/15", "url": "https://www.chunichi.co.jp/article/1339708"},
+            {"outlet": "スポニチ（Yahoo! Japan 轉載）", "time": "11/15", "url": "https://news.yahoo.co.jp/articles/f18704cd4b6130212d2daebe92488d16a06d2f35"},
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/sports/202611150005"}
+          ]
+        },
+        {
+          "title": "帕拉桌球世錦賽：林姿妤、田曉雯奪女雙金牌",
+          "summary": "台灣選手林姿妤與田曉雯在泰國舉行的 2026 國際桌總世界帕拉桌球錦標賽，奪得女子雙打 WD20 級金牌。兩人在決賽以 3:1 擊敗中國組合。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/sports/202611150008"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "木村拓哉台北開唱，鞠躬感謝台灣賑災援助",
+          "summary": "日本藝人木村拓哉首度在台北舉行個人演唱會，兩天吸引約 1 萬名歌迷。他在台上感謝台灣每逢日本地震與天災時伸出援手，並鞠躬致意，表示想當面向大家道謝。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867819"}
+          ],
+          "local": [
+            {"outlet": "TVBS", "note": "著重現場細節，包括 90 度鞠躬與談及偶像生涯", "url": "https://news.tvbs.com.tw/entertainment/jk-pop/4050659"}
+          ],
+          "note": "演唱會於 11/13–14 舉行，本則依時間範圍內刊出的報導收錄"
+        },
+        {
+          "title": "地方選舉倒數兩週，雙北候選人週末密集造勢",
+          "summary": "距 11/28 地方選舉約兩週，新北市長候選人蘇巧慧（民進黨）與副總統蕭美琴同台造勢，強調多元；國民黨候選人李四川則承諾延續侯友宜市政。台北市方面，沈伯洋舉行車隊掃街，蔣萬安則宣傳市政政策。星島日報報導，蘇巧慧造勢時意外撞斷門牙，仍繼續上台演唱。",
+          "prc": false,
+          "sources": [
+            {"outlet": "星島日報（加拿大）", "time": "11/15", "url": "https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E4%B8%AD%E5%9B%BD/%E4%B9%9D%E5%90%88%E4%B8%80%E9%80%89%E4%B8%BE%EF%BD%9C%E6%B0%91%E8%BF%9B%E5%85%9A%E6%96%B0%E5%8C%97%E5%80%99%E9%80%89%E4%BA%BA%E9%80%A0%E5%8A%BF-%E6%92%9E%E6%96%AD%E9%97%A8%E7%89%99%E5%90%AB/"},
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/politics/202611150013"},
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/politics/202611150012"},
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/politics/202611150014"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "以蘇巧慧撞斷門牙仍完成造勢為主軸", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867826"}
+          ]
+        },
+        {
+          "title": "彰化警方調查行政院中部聯合服務中心副執行長座車疑遭射擊",
+          "summary": "行政院中部聯合服務中心副執行長吳音寧報案，其座車右後方尾燈內發現一顆鋼珠，疑遭射擊。彰化警方已展開調查。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taipei Times", "time": "11/16", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867824"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "台中「假佛陀代言人」詐騙信徒 5.16 億元遭起訴",
+          "summary": "台中地檢署起訴一名自稱「佛陀代言人」的女子，指她在約 10 年間向一名信徒詐取約新台幣 5.16 億元。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/society/202611150006"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "產假、育嬰假新制明年 1/1 上路",
+          "summary": "立法院修法擴大產假與育嬰假給付，新制將於 2027 年 1 月 1 日生效。中央社整理了新制的適用對象與給付內容。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/society/202611150015"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "台灣錄像藝術展在西班牙 LABoral 藝術中心開幕",
+          "summary": "8 位台灣錄像藝術家的作品在西班牙北部阿斯圖里亞斯自治區希洪市的 LABoral 藝術中心展出，展期為 11/12 至 11/19。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/15", "url": "https://focustaiwan.tw/culture/202611150004"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    }
+  ],
+  "search_notes": {
+    "not_found": [
+      "本次時間範圍為週六晚間至週一清晨，國際媒體以台灣為主題的新報導明顯較少。",
+      "Reuters、AFP、Bloomberg、BBC、NYT、WSJ、FT、The Guardian、The Economist：沒有找到時間範圍內以台灣為主題的新報導（AP 只有輝達醜聞分析稿的轉載）。",
+      "Nikkei Asia、共同社、朝日、Straits Times、SCMP、DW、France 24、Le Monde、Al Jazeera：沒有找到時間範圍內的台灣主題報導；SCMP 最新台灣報導停在 11/12–11/13。",
+      "韓聯社：搜尋結果顯示 11/15 有一則「3 名台灣高科技從業人員赴中國出差遭限制出境」報導，但無法取得原文連結與內容，未收錄；同一事件台灣媒體報導時間在範圍之前。",
+      "新華社、環球時報、國台辦：沒有找到時間範圍內的新對台報導或記者會。",
+      "國防部 11/16 上午公布的共機共艦數字：搜尋時尚未被索引。",
+      "菲律賓與澳洲 11/15 簽署新版防衛合作協議：相關報導沒有提到台灣，未收錄。",
+      "本次執行環境無法直接連線 focustaiwan.tw、taipeitimes.com、news.yahoo.co.jp、1news.co.nz、thestandard.com.hk 等網站，內容依搜尋引擎結果整理，報導時間多只能標到日期。"
+    ],
+    "paywalled": [
+      "產經新聞巴士海峽慰靈祭報導：只看得到搜尋摘要。",
+      "NHK 慰靈祭報導：只看得到標題與導言。"
+    ]
+  }
+}
