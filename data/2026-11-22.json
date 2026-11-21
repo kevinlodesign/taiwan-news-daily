@@ -1,0 +1,394 @@
+{
+  "date": "2026-11-22",
+  "window": "2026-11-21 06:00 – 2026-11-22 05:00（台北時間）",
+  "highlights": [
+    "金管會 11/21 宣布自 11/23 起全面禁止平盤以下放空、融券保證金成數提高到 150%，並暫停受理認售權證上市申請；彭博、路透都報導，台股單週跌約 17.5%，這是本月第三次收緊放空規定。",
+    "美股 11/20 收盤重挫，費城半導體指數跌約 10.7%，台積電 ADR 跌約 9.5%；路透報導美國證交會正調查輝達會計，拖累晶片股，台指期夜盤同步大跌。",
+    "外交部次長陳明祺在哈利法克斯國際安全論壇接受美聯社專訪，警告加拿大加深與中國經貿關係有風險，同時歡迎總理卡尼承諾簽署加台貿易合作安排。"
+  ],
+  "categories": [
+    {
+      "id": "security",
+      "name": "兩岸與軍事安全",
+      "items": [
+        {
+          "title": "美眾議員培根：美台軍事合作達前所未有水準",
+          "summary": "美國共和黨眾議員培根（Don Bacon）11/20 在華府智庫全球台灣研究中心（GTI）的研討會上表示，美台軍事合作已達到前所未有的水準，並稱雙方的聯合作戰規劃與協調有助嚇阻威脅。他主張美國應堅定支持台灣、避免「戰略模糊」被解讀為軟弱。同場的國會台灣連線共同主席貝拉（Ami Bera）預期，下屆國會對台的跨黨派支持將會延續。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Focus Taiwan（中央社英文）",
+              "time": "11/21",
+              "url": "https://focustaiwan.tw/politics/202611210004"
+            },
+            {
+              "outlet": "Taipei Times",
+              "time": "11/22",
+              "url": "https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868165"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        },
+        {
+          "title": "台南市議員參選人涉違反《反滲透法》，訊後交保",
+          "summary": "據《台北時報》報導，民眾黨台南市議員參選人 Lin Nai-li（中文姓名待確認）因涉嫌違反《反滲透法》接受偵訊，之後以新台幣 20 萬元交保，本人否認相關指控。這起案件與日前桃園參選人被起訴、涉收中共資金助選一案，都是九合一選前司法單位偵辦的境外介選案件。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {
+              "outlet": "Taipei Times",
+              "time": "11/22",
+              "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/22/2003868180"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；參選人中文姓名待確認。"
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "name": "國際外交",
+      "items": [
+        {
+          "title": "外交部次長陳明祺：加拿大深化對中經貿恐招致經濟脅迫",
+          "summary": "外交部政務次長陳明祺 11/21 在加拿大哈利法克斯國際安全論壇接受美聯社專訪，指出加拿大總理卡尼推動加深與中國的經貿往來，可能讓加拿大面臨卡尼自己曾警告過的經濟脅迫。他也提到中國電動車可能帶來監控風險，並以台灣對中投資占比從 2010 年超過八成降到去年的 3.8% 為例。陳明祺同時肯定卡尼的國際領導力，並歡迎加方承諾簽署延宕已久的加台貿易合作安排。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "AP（ABC News 轉載）",
+              "time": "11/21",
+              "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706"
+            },
+            {
+              "outlet": "AP（Yahoo News 轉載）",
+              "time": "11/21",
+              "url": "https://www.yahoo.com/news/politics/articles/taiwan-warns-canada-faces-china-173951699.html"
+            },
+            {
+              "outlet": "The Manila Times（轉載 AP）",
+              "time": "11/22",
+              "url": "https://www.manilatimes.net/2026/11/22/world/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks/2475573"
+            }
+          ]
+        },
+        {
+          "title": "政府：中國在 APEC 對台不當對待，不會成為先例",
+          "summary": "台灣政府表示，中國今年主辦 APEC 期間對台灣代表團有多起不當對待，例如經濟部長龔明鑫 9 月遭阻參加廣州的中小企業部長會議、邀請函未使用「中華台北」名稱等，但這些做法不會成為未來 APEC 的先例。報導指出，台北與北京自 2024 年 11 月起到深圳領袖會議結束，共進行 17 輪協商。北京方面則表示，台灣參與依「一個中國原則」與 APEC 備忘錄處理。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Taipei Times",
+              "time": "11/21",
+              "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868141"
+            },
+            {
+              "outlet": "Dainik Jagran English",
+              "time": "11/21",
+              "url": "https://english.dainikjagranmpcg.com/international/taiwan-says-china%E2%80%99s-apec-treatment-won%E2%80%99t-set-a-precedent/article-45559"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "Focus Taiwan（中央社英文）",
+              "note": "中央社英文版於 11/20 晚間先行發稿，內容相同",
+              "url": "https://focustaiwan.tw/politics/202611200020"
+            }
+          ]
+        },
+        {
+          "title": "川普與高市早苗通話，日方重申對台立場未變",
+          "summary": "日本首相高市早苗在深圳 APEC 後與美國總統川普通話約 20 分鐘，討論印太局勢與烏克蘭問題。高市重申，日本對台灣的立場自 1972 年日中聯合聲明以來「完全沒有改變」，但對於日本是否會介入台海衝突，她以不回答假設性問題帶過。中方仍要求日方撤回去年的涉台發言，雙方關係僵局未解。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Eurasia Review",
+              "time": "11/21",
+              "url": "https://www.eurasiareview.com/21112026-trump-takaichi-discuss-indo-pacific-security-as-japanese-leader-reaffirms-taiwan-policy/"
+            },
+            {
+              "outlet": "New Straits Times",
+              "time": "11/21",
+              "url": "https://www.nst.com.my/amp/world/world/2026/11/1581352/japans-position-taiwan-has-not-changed-pm-takaichi-says"
+            }
+          ]
+        },
+        {
+          "title": "外交部長林佳龍：友邦繁榮經貿辦公室將深化與友邦商務往來",
+          "summary": "據《台北時報》報導，外交部長林佳龍表示，「友邦繁榮經貿辦公室」將協助台灣企業加強與史瓦帝尼、馬紹爾群島、帛琉、吐瓦魯等友邦的經貿往來。這個辦公室由國合會督導，採公私協力模式，今年 7 月已正式成立。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Taipei Times",
+              "time": "11/21",
+              "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868140"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "經濟財經",
+      "items": [
+        {
+          "title": "金管會加碼穩市：11/23 起全面禁止平盤以下放空",
+          "summary": "金管會 11/21（週六）宣布，自 11/23 起上市櫃股票及台灣存託憑證一律禁止平盤以下融券和借券賣出，最低融券保證金成數由 130% 提高到 150%，並暫停受理證券商發行認售權證上市申請，同時呼籲出借機構暫停出借股票。路透指出，這是本月第三次收緊放空規定；彭博報導，國安基金也表示已進場護盤，並呼籲投資人保持信心。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {
+              "outlet": "Bloomberg",
+              "time": "11/21",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets"
+            },
+            {
+              "outlet": "Reuters（TimesLIVE 轉載）",
+              "time": "11/21",
+              "url": "https://www.timeslive.co.za/news/world/2026-11-21-taiwan-further-tightens-short-selling-rules-after-market-rout/"
+            },
+            {
+              "outlet": "Seoul Economic Daily",
+              "time": "11/21",
+              "url": "https://en.sedaily.com/market/2026/11/21/taiwan-curbs-short-selling-after-175-percent-weekly-plunge"
+            },
+            {
+              "outlet": "CBS 노컷뉴스（NoCut News）",
+              "time": "11/21",
+              "url": "https://en.nocutnews.co.kr/news/6610202"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "Focus Taiwan（中央社英文）",
+              "note": "說明 11/19 第二波措施只針對前一日跌幅 3.5% 以上個股，這次改為全面適用",
+              "url": "https://focustaiwan.tw/business/202611210013"
+            }
+          ]
+        },
+        {
+          "title": "卓榮泰連兩天召集財經首長，作出四點穩市裁示",
+          "summary": "行政院長卓榮泰 11/21 再度召集財政部、經濟部、金管會、央行與證交所首長開會，提出四點裁示：財政部留意產業資金流向並加強企業融資、信用保證與國安基金力道；金管會維持交易秩序；經濟部協助產業穩健經營；央行密切注意匯率與外匯市場。政院發言人表示，國內經濟基本面良好，台股波動主要受國際股市影響。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Focus Taiwan（中央社英文）",
+              "time": "11/21",
+              "url": "https://focustaiwan.tw/business/202611210010"
+            },
+            {
+              "outlet": "自由財經",
+              "time": "11/21",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5648616"
+            },
+            {
+              "outlet": "經濟日報（聯合新聞網）",
+              "time": "11/21",
+              "url": "https://money.udn.com/money/story/7307/9893267"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "經濟日報（聯合新聞網）",
+              "note": "標題強調「選前救股市」，並提到卓揆要求研議措施穩定金融與匯率",
+              "url": "https://money.udn.com/money/story/7307/9893288"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        },
+        {
+          "title": "美股週五重挫、費半跌逾一成，台指期夜盤同步大跌",
+          "summary": "美股 11/20 收盤（台北時間 11/21 清晨）全面下跌，NPR 報導標普 500 指數跌 3.7%，那斯達克指數今年的漲幅全數抹去；費城半導體指數跌約 10.7%，台積電 ADR 跌約 9.5%。台灣媒體報導，台指期夜盤跌約 1,881 點，分析師預期週一開盤可能跳空走低。另據 TVBS 報導，台股 11 月以來累計跌約 20%。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "NPR",
+              "time": "11/21",
+              "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+            },
+            {
+              "outlet": "CNBC",
+              "time": "11/21",
+              "url": "https://cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html"
+            },
+            {
+              "outlet": "Investing.com（費半歷史資料）",
+              "time": "11/21",
+              "url": "https://www.investing.com/indices/phlx-semiconductor-historical-data"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "壹電視",
+              "note": "報導台指期夜盤大跌 1,881 點（數字依搜尋摘要，待確認）",
+              "url": "https://www.nexttv.com.tw/NextTV/News/Home/Finance/2026-11-21/2532901.html"
+            },
+            {
+              "outlet": "世界日報",
+              "note": "強調台股單週跌 7,641 點、市值減少約 25 兆元，全球排名退到第七",
+              "url": "https://www.worldjournal.com/wj/story/121221/9893085"
+            }
+          ]
+        },
+        {
+          "title": "台積電股價重挫，散戶逢低買進零股",
+          "summary": "中央社報導，台積電股價本週大跌期間，散戶趁低價買進台積電零股。路透先前報導，台積電本週表現是 1997 年以來最差的一週。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Focus Taiwan（中央社英文）",
+              "time": "11/21",
+              "url": "https://focustaiwan.tw/business/202611210005"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；零股成交量等細節數字待確認。"
+        },
+        {
+          "title": "立院三讀全民普發 2 萬元特別條例，政院拒副署農民津貼法案",
+          "summary": "國民黨團提出的全民普發新台幣 2 萬元特別條例，已於 11/20 在立法院以 50 比 46 三讀通過，民眾黨反對，部分投入選戰的民進黨立委缺席；財政部估計需要舉債，央行總裁楊金龍也表達保留。另據《台北時報》11/21 報導，行政院長卓榮泰拒絕副署在野黨主導的農民津貼法案，政院不副署的法案已累計 10 項。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {
+              "outlet": "Taipei Times",
+              "time": "11/21",
+              "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868138"
+            },
+            {
+              "outlet": "Formosa News（民視英文）",
+              "time": "11/21",
+              "url": "https://english.ftvnews.com.tw/news/2026B20W04EA"
+            },
+            {
+              "outlet": "Focus Taiwan 每日頭條整理",
+              "time": "11/21",
+              "url": "https://focustaiwan.tw/society/202611210002"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；三讀表決在 11/20，本次收錄的是 11/21 的後續報導。"
+        }
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "name": "半導體與供應鏈",
+      "items": [
+        {
+          "title": "路透：美國證交會調查輝達會計，晶片股與台積電 ADR 重挫",
+          "summary": "路透引述兩名知情人士報導，美國證交會（SEC）正調查輝達的會計處理，消息傳出後輝達股價單日跌約 13%～14%，市值蒸發約 5 千億美元。部分媒體指出，市場關注輝達去年更改地區營收分類方式，但路透並未證實這是調查範圍。輝達是台灣 AI 伺服器供應鏈的重要客戶，台積電 ADR 當天也跌約 9.5%。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Reuters（The Motley Fool 引述）",
+              "time": "11/21",
+              "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/"
+            },
+            {
+              "outlet": "Business Today（印度）",
+              "time": "11/21",
+              "url": "https://www.businesstoday.in/latest/corporate/story/us-sec-launches-probe-into-potential-accounting-issues-at-nvidia-scrutiny-over-china-ties-widen-568860-2026-11-21"
+            },
+            {
+              "outlet": "Decrypt",
+              "time": "11/21",
+              "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "DIGITIMES",
+              "note": "聚焦黃仁勳去職後台灣供應鏈的不確定性，例如 AI 硬體升級節奏可能放緩",
+              "url": "https://digitimes.com/news/a20261120PD224/jensen-huang-ceo-development-supply-chain-taiwan.html"
+            }
+          ]
+        },
+        {
+          "title": "美財長貝森特：川習會未談黃仁勳，H200 出口政策不變",
+          "summary": "美國財政部長貝森特接受 CNBC 訪問時表示，川普與習近平在深圳會談時沒有談到前輝達執行長黃仁勳，並說他預期 H200 晶片的對中出口政策不會改變，川普已畫下「非常堅定的界線」。川普先前則稱他「可能簡短」提過這件事。貝森特也說，雙方同意在軍事領域使用 AI 方面建立若干護欄。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "The Korea Times（轉載）",
+              "time": "11/21",
+              "url": "https://www.koreatimes.co.kr/world/20261121/trump-xi-did-not-discuss-nvidias-huang-us-treasury-secretary"
+            },
+            {
+              "outlet": "CNBC",
+              "time": "11/21",
+              "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技與產業",
+      "items": [
+        {
+          "title": "Anthropic 上市第二天股價下跌約 9%，台積電以發行價入股",
+          "summary": "AI 公司 Anthropic 11/19 在那斯達克掛牌後，11/20 隨科技股賣壓下跌約 9%。台積電子公司 TSMC Partners 先前以每股 83 美元的發行價認購約 602 萬股、總額約 5 億美元，持股約 0.03%；台積電董事會另核准最多 5 億美元投資 OpenAI 特別股。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Yahoo Finance",
+              "time": "11/21",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+            },
+            {
+              "outlet": "Dealroom",
+              "time": "11/21",
+              "url": "https://app.dealroom.co/news/note/tsmc-buys-500m-in-anthropic-stock-at-ipo-price-of-83"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "Focus Taiwan（中央社英文）",
+              "note": "11/19 先報導台積電入股細節",
+              "url": "https://focustaiwan.tw/business/202611190023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "社會、文化、觀光、運動",
+      "items": [
+        {
+          "title": "九合一選前最後一個週六，各黨全台衝刺造勢",
+          "summary": "距離 11/28 地方選舉剩一週，民進黨、國民黨、民眾黨 11/21 在各地密集造勢。民進黨主席、總統賴清德到苗栗與雲林輔選；前總統蔡英文與副總統蕭美琴出席民進黨新北市長參選人蘇巧慧的造勢活動；國民黨新北市長參選人李四川則在中和掃街。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Focus Taiwan（中央社英文）",
+              "time": "11/21",
+              "url": "https://focustaiwan.tw/politics/202611210017"
+            },
+            {
+              "outlet": "Taipei Times",
+              "time": "11/22",
+              "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/22/2003868197"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        }
+      ]
+    }
+  ],
+  "search_notes": {
+    "not_found": [
+      "AFP、BBC、NYT、WSJ、The Guardian、The Economist、FT：未找到本時段以台灣為主軸的新報導",
+      "NHK、Kyodo、Asahi、Nikkei Asia、Yonhap、Straits Times、SCMP：未找到本時段台灣相關新報導（共同社 11/21 有一則美中俄會談相關報導，與台灣無直接關係）",
+      "DW、France 24、Le Monde、Al Jazeera：未找到本時段台灣相關報導",
+      "新華社、環球時報、國台辦：未找到本時段的新涉台報導（最近一次國台辦記者會為 11/18）",
+      "國防部每日共機共艦動態：未找到可確認為 11/21 的報導",
+      "中央社標題整理提到詩人向明辭世、雪霸初雪，但無法查證原文，未收錄",
+      "本次執行環境無法直接開啟新聞網站原文（WebFetch 被網路設定封鎖），內容依搜尋結果摘要整理，多數發布時間只能標到日期"
+    ],
+    "paywalled": [
+      "Bloomberg：台灣全面禁止平盤下放空報導（依摘要與轉載取得重點）",
+      "Reuters：美國證交會調查輝達會計原文（依其他媒體引述取得）"
+    ]
+  }
+}
