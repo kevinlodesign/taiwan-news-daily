@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-25",
+  "window": "2026-11-24 06:00 – 2026-11-25 05:00（台北時間）",
+  "highlights": [
+    "黃仁勳重回輝達帶動台股 11/24 大漲 3,310.46 點（8.99%），收 40,122.35 點，創史上最大單日漲點；台積電漲停，但外資當天仍賣超約 504 億元。",
+    "路透報導，台灣 11/28 地方選舉以在地議題為主，北京卻持續點名攻擊民進黨台北市長參選人沈伯洋；陸委會主委邱垂正同日警告，習近平若取得第四任期，對台手段可能更強硬。",
+    "經濟部公布 10 月工業生產指數年增 29.8%，創單月新高、連 32 個月正成長，主因 AI 伺服器需求；德國外長則公開對川普介入輝達人事表示震驚。"
+  ],
+  "categories": [
+    {
+      "id": "security",
+      "name": "兩岸與軍事安全",
+      "items": [
+        {
+          "title": "路透：台灣選舉聚焦在地議題，北京仍頻頻點名沈伯洋",
+          "summary": "路透社報導，11/28 地方選舉主要圍繞民生與地方議題，但中國持續以「叛徒」等字眼抨擊民進黨台北市長參選人沈伯洋，國台辦先前已將他列為「台獨頑固分子」並發出通緝，央視也批評他打「反中牌」。報導提到台北地檢署 10 月起訴 4 人涉嫌在沈伯洋住處外的機車裝設追蹤器；沈伯洋則表示北京是不滿他揭露中國影響力操作。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {
+              "outlet": "Reuters（The Kathmandu Post 轉載）",
+              "time": "11/24",
+              "url": "https://kathmandupost.com/world/2026/11/24/taiwan-s-local-elections-are-not-about-china-but-beijing-has-other-ideas"
+            },
+            {
+              "outlet": "Reuters（ThePrint 轉載）",
+              "time": "11/24",
+              "url": "https://theprint.in/world/taiwans-elections-not-about-china-but-beijing-has-a-lot-to-say/3107097/"
+            },
+            {
+              "outlet": "Reuters（Aaj English TV 轉載）",
+              "time": "11/24",
+              "url": "https://english.aaj.tv/news/330481901/taiwans-elections-not-about-china-but-beijing-has-a-lot-to-say"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "Taipei Times",
+              "note": "著重民進黨立委提醒選民留意中國介選手法，包括非法政治獻金、補貼赴陸旅遊與優惠機票等。",
+              "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868351"
+            }
+          ]
+        },
+        {
+          "title": "陸委會主委邱垂正：習近平若第四任期，對台壓力恐更強",
+          "summary": "陸委會主委邱垂正 11/24 表示，習近平預期取得第四任期後，北京對台手段可能更趨強硬，兩岸在「管轄權」上的爭議也會日益嚴重。他先前也曾警告，中國可能進一步加強灰色地帶行動。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社 Focus Taiwan",
+              "time": "11/24",
+              "url": "https://focustaiwan.tw/politics/202611240020"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "Taipei Times",
+              "note": "標題以「習近平連任恐帶來危險」呈現，刊於 11/25 版面。",
+              "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868349"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "勞動黨副主席涉收中資助選遭羈押",
+          "summary": "Taipei Times 報導，勞動黨一名副主席涉嫌收受中國資金、用於民眾黨候選人的競選活動，遭法院裁定羈押。當事人姓名、涉案候選人與金額等細節待確認。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "Taipei Times",
+              "time": "11/25",
+              "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868355"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；細節僅見標題與導言"
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "name": "國際外交",
+      "items": [
+        {
+          "title": "德國外長 Wadephul 對川普介入輝達人事「感到震驚」",
+          "summary": "德新社財經（dpa-AFX）報導，德國外長 Wadephul 11/24 在柏林一場外交政策論壇上表示，不記得曾見過政治人物如此介入單一企業的決策。報導指出，川普向 CNBC 表示他曾告訴輝達董事會，美國政府沒有證據顯示黃仁勳構成國安威脅；另引述《金融時報》報導稱川普可能持有輝達股票，此說法尚未證實。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "dpa-AFX（Investing.com 德文版）",
+              "time": "11/24",
+              "url": "https://de.investing.com/news/stock-market-news/wadephul-schockiert-uber-trumpeingreifen-bei-nvidia-3783891"
+            },
+            {
+              "outlet": "ORF",
+              "time": "11/24",
+              "url": "https://orf.at/stories/3449095"
+            },
+            {
+              "outlet": "Volksstimme（引 dpa）",
+              "time": "11/24",
+              "url": "https://www.volksstimme.de/leben/technik/wadephul-schockiert-uber-trump-eingreifen-bei-nvidia-4361765"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "中央社",
+              "note": "以國際新聞處理，並連結亞股大漲。",
+              "url": "https://www.cna.com.tw/news/aopl/202611240282.aspx"
+            }
+          ]
+        },
+        {
+          "title": "菲律賓防長：強化巴丹群島韌性，與台防務合作仍受限",
+          "summary": "中央社報導，菲律賓國防部長表示正加強北部巴丹群島的防衛與民生韌性，但在現行政策框架下，與台灣建立防務合作仍有限制。巴丹群島距台灣約 200 公里，菲方先前已表示若台海有事，當地可能受到波及。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社",
+              "time": "11/24",
+              "url": "https://www.cna.com.tw/news/aopl/202611240257.aspx"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；菲律賓原始報導來源待確認"
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "經濟財經",
+      "items": [
+        {
+          "title": "台股大漲 8.99%，創史上最大單日漲點",
+          "summary": "黃仁勳復任輝達執行長後，台股 11/24 終場上漲 3,310.46 點、收 40,122.35 點，超越 7/31 創下的紀錄，成交值約 4,194 億元，盤中漲幅一度達 9.15%。日、韓媒體同步報導亞股全面反彈，南韓 KOSPI 重回 5,000 點；韓媒指出台股上週跌幅是 35 年來最大。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社 Focus Taiwan",
+              "time": "11/24",
+              "url": "https://focustaiwan.tw/business/202611240019"
+            },
+            {
+              "outlet": "みんかぶ FX（日文）",
+              "time": "11/24 18:29",
+              "url": "https://fx.minkabu.jp/news/385290"
+            },
+            {
+              "outlet": "The Asia Business Daily（亞洲經濟）",
+              "time": "11/24",
+              "url": "https://view.asiae.co.kr/en/article/world-general/2026112415403568224"
+            },
+            {
+              "outlet": "Seoul Economic Daily（首爾經濟）",
+              "time": "11/24",
+              "url": "https://en.sedaily.com/world/2026/11/24/jensen-huangs-return-sends-asian-markets-soaring-taiwan"
+            },
+            {
+              "outlet": "Financial News（韓文）",
+              "time": "11/24",
+              "url": "https://www.fnnews.com/news/202611241724378292"
+            },
+            {
+              "outlet": "ad-hoc-news.de",
+              "time": "11/24",
+              "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/taiwan-weighted-closes-8-99-prozent-higher-on-ai-rebound/70549612"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "自由時報",
+              "note": "強調外資逆勢賣超約 503.8 億元，已連 7 個交易日賣超，累計約 2,980 億元。",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5651873"
+            },
+            {
+              "outlet": "聯合新聞網",
+              "note": "點出三大法人合計賣超約 1,230 億元，自營商賣超約 810 億元、投信買超約 84 億元。",
+              "url": "https://money.udn.com/money/story/5607/9899212"
+            }
+          ]
+        },
+        {
+          "title": "10 月工業生產指數年增 29.8%，創單月新高",
+          "summary": "經濟部統計處 11/24 公布，10 月工業生產指數 151.3，年增 29.8%，連續 32 個月正成長；製造業指數年增 31.63%，兩者都創歷年新高。主要動能來自 AI 伺服器，電腦電子產品及光學製品業年增約 1.3 倍；汽車及零件、化學材料則仍衰退。統計處預估全年製造業生產年增可望超過兩成，為 16 年來最大增幅。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社（華視轉載）",
+              "time": "11/24",
+              "url": "https://news.cts.com.tw/cna/money/202611/202611243104820.html"
+            },
+            {
+              "outlet": "Taipei Times",
+              "time": "11/25",
+              "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/25/2003868322"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "中國時報",
+              "note": "以「伺服器出貨火爆」為標題，強調為 16 年來最強單月表現。",
+              "url": "https://www.chinatimes.com/realtimenews/20261124004417-260410"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "新台幣小貶，收 32.939 元兌 1 美元",
+          "summary": "台北外匯市場 11/24 美元兌新台幣收在 32.939 元，美元走升。雖然台股大漲，外資仍大舉賣超，新台幣未隨股市反彈走強。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社 Focus Taiwan",
+              "time": "11/24",
+              "url": "https://focustaiwan.tw/business/202611240017"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "name": "半導體與供應鏈",
+      "items": [
+        {
+          "title": "台積電漲停收 2,230 元，貢獻大盤約 1,600 點",
+          "summary": "台積電 11/24 開盤不久即漲停，收 2,230 元，單一個股就為加權指數貢獻約 1,600 點；聯發科、鴻海、廣達也都以漲停作收，電子類股指數上漲 9.49%。韓媒指出，台積電約占台股市值四成，是這波反彈的主要推手。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社 Focus Taiwan",
+              "time": "11/24",
+              "url": "https://focustaiwan.tw/business/202611240011"
+            },
+            {
+              "outlet": "The Asia Business Daily（亞洲經濟）",
+              "time": "11/24",
+              "url": "https://view.asiae.co.kr/en/article/world-general/2026112415403568224"
+            },
+            {
+              "outlet": "Kotak Neo",
+              "time": "11/24",
+              "url": "https://www.kotakneo.com/news/global-markets/asian-markets-rally-kospi-gains-above-7-percent-nikkei-rises-5-percent-taiwan-jumps-9-1-nvidia-rebound/"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "Taipei Times",
+              "note": "補充投信買超約 84 億元，與外資賣超形成對比。",
+              "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/25/2003868320"
+            }
+          ]
+        },
+        {
+          "title": "DIGITIMES：台積電評估在德州設 226 億美元 2 奈米園區",
+          "summary": "DIGITIMES 報導，台積電正評估在美國德州興建投資額約 226 億美元的 2 奈米晶圓園區，其中約 140 億美元用於機器設備，並與亞利桑那州比較作為下一個大型美國擴廠地點。台積電尚未正式宣布。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "DIGITIMES",
+              "time": "11/24",
+              "url": "https://www.digitimes.com/news/a20261124VL226/tsmc-texas-arizona-investment-manufacturing.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技與產業",
+      "items": [
+        {
+          "title": "美聯社：黃仁勳故鄉台灣多數歡迎他重回輝達",
+          "summary": "美聯社在台北採訪民眾，有店家認為黃仁勳對 AI 產業不可或缺，復職合理，也有民眾說各行各業都需要 AI，所以樂見他回來。報導提到黃仁勳先前因與一名被美方官員指為中國間諜的女子關係而下台；中國外交部被問及此事時表示「不予置評」。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "AP（Yahoo Finance 轉載）",
+              "time": "11/24",
+              "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-native-taiwan-welcome-084941247.html"
+            },
+            {
+              "outlet": "AP（WRAL 轉載）",
+              "time": "11/24",
+              "url": "https://www.wral.com/news/ap/1ec85-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/"
+            },
+            {
+              "outlet": "AP（KSAT 轉載）",
+              "time": "11/24",
+              "url": "https://www.ksat.com/business/2026/11/24/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "社會、文化、觀光、運動",
+      "items": [
+        {
+          "title": "選前倒數四天，台北市長兩陣營展開車隊掃街",
+          "summary": "距 11/28 投票只剩四天，台北市長選戰進入最後衝刺。中央廣播電臺報導，民進黨參選人沈伯洋 11/24 起展開全市車隊掃街催票，國民黨籍市長蔣萬安則加強直播等網路宣傳；風傳媒報導蔣萬安規劃 11/24 至 11/26 以三天車隊走遍台北 12 個行政區。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央廣播電臺 Rti",
+              "time": "11/24",
+              "url": "https://rti.org.tw/en/news?pid=1053420&uid=3"
+            },
+            {
+              "outlet": "風傳媒（英文版）",
+              "time": "11/24",
+              "url": "https://world.storm.mg/articles/1178510"
+            }
+          ],
+          "local": [
+            {
+              "outlet": "中央廣播電臺 Rti（中文）",
+              "note": "中文版以「沈伯洋啟動車掃催票、蔣萬安推直播布局空戰」對照兩陣營策略。",
+              "url": "https://www.rti.org.tw/news?uid=3&pid=1053336"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "中選會：近 1,960 萬人可投票，公投投票權人逾 2,000 萬",
+          "summary": "中選會表示，11/28 九合一地方選舉約有 1,960 萬名選舉人，同日舉行的全國性公投則有超過 2,000 萬人可投票。本次公投題目是是否支持以核能振興經濟、廢除「非核家園」政策，通過門檻為同意票多於不同意票且達投票權人四分之一。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社 Focus Taiwan",
+              "time": "11/24",
+              "url": "https://focustaiwan.tw/politics/202611240024"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "移工雇主團體到行政院陳情，要求改革並促部長下台",
+          "summary": "移工雇主團體 11/24 在行政院外集結，向行政院代表遞交陳情書，要求行政院長卓榮泰提出具體改革，並要求相關部會首長下台。被要求下台的部長身分待確認。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社 Focus Taiwan",
+              "time": "11/24",
+              "url": "https://focustaiwan.tw/society/202611240023"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        },
+        {
+          "title": "伊波拉疫情延燒，疾管署延長剛果民主共和國邊境管制",
+          "summary": "疾管署宣布，因剛果民主共和國伊波拉疫情持續，相關邊境管制措施再延長 90 天，至 2027 年 2 月 26 日。",
+          "prc": false,
+          "sources": [
+            {
+              "outlet": "中央社 Focus Taiwan",
+              "time": "11/24",
+              "url": "https://focustaiwan.tw/society/202611240021"
+            }
+          ],
+          "note": "本次搜尋只找到台灣媒體報導"
+        }
+      ]
+    }
+  ],
+  "search_notes": {
+    "not_found": [
+      "Reuters：選舉報導透過 The Kathmandu Post、ThePrint、Aaj English TV 轉載取得，無法直接開啟路透原站",
+      "Bloomberg、NYT、WSJ、FT、The Guardian、The Economist、BBC、AFP：未找到本時段以台灣為主軸的新報導（AFP 台北市長選戰報導為 11/16 舊文，不收錄）",
+      "Nikkei Asia：台灣頁面列有「亞洲輝達供應商謹慎歡迎黃仁勳回歸」等標題，但無法確認發布時間與內容，未收錄",
+      "NHK、Kyodo、Asahi、Yonhap、SCMP、Straits Times：未找到本時段台灣相關原文；日、韓文報導以 みんかぶ、亞洲經濟、首爾經濟、Financial News 為主",
+      "DW、France 24、Le Monde、Al Jazeera：未找到本時段台灣相關報導；德語報導來自 dpa-AFX／ORF",
+      "新華社、環球時報：未找到本時段新的涉台報導",
+      "TIME〈How Taiwan Is Turning Tech Supremacy Into a Security Shield〉標示美國時間 11/23，無法確認是否落在本時段，未收錄",
+      "本次執行環境無法直接開啟新聞網站原文（WebFetch 對 taipeitimes.com、usnews.com、asiaone.com 等網域無法連線），內容依搜尋結果摘要整理，多數發布時間只能標到日期"
+    ],
+    "paywalled": [
+      "DIGITIMES〈TSMC eyes US$22.6 billion Texas campus for 2nm chips〉：只看得到導言",
+      "Taipei Times 11/25〈China financing scheme bound to fail: experts〉：只看到標題，內容無法確認，未收錄"
+    ]
+  }
+}
