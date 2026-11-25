@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-26",
+  "window": "2026-11-25 06:00 – 2026-11-26 05:00（台北時間）",
+  "highlights": [
+    "前一天才創最大單日漲點的台股，11/25 反向重挫 1,926.92 點（4.80%），收 38,195.43 點；半島電視台、安納杜魯通訊社都把這波賣壓歸因於華爾街 AI 股回檔，外資單日賣超約 1,236 億元，新台幣收 33.126 元、跌破 33 元關卡。",
+    "美國貿易代表署（USTR）以「結構性產能過剩」為由，對包括台灣在內的 14 個經濟體提出 301 關稅方案，台灣適用最高 15%，備案稅率最高 25%；台經院與政府都表示，最終稅率預期仍維持台美協議的 15% 上限。",
+    "中國國台辦 11/25 記者會稱兩岸前 10 月貿易額年增 32%，並要求日本糾正涉台言行；北京在台灣地方選舉前幾天宣布由中國進出口銀行擴大融資台商，韓國首爾經濟日報等外媒也注意到時間點的敏感性。"
+  ],
+  "categories": [
+    {
+      "id": "security",
+      "name": "兩岸與軍事安全",
+      "items": [
+        {
+          "title": "北京選前宣布擴大融資台商，外媒關注時機",
+          "summary": "首爾經濟日報報導，中國國台辦與中國進出口銀行簽署協議，未來五年擴大對在陸台商與台資園區的政策性融資，也支持台商參與一帶一路，宣布時間就在台灣 11/28 地方選舉前幾天。陸委會先前回應，台商赴陸投資金額與占比今年已明顯下滑。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {"outlet": "Seoul Economic Daily（首爾經濟日報）", "time": "11/25", "url": "https://en.sedaily.com/world/2026/11/25/china-unveils-financing-support-for-taiwanese-firms-days"}
+          ],
+          "local": [
+            {"outlet": "Taipei Times", "note": "專家認為台灣科技與製造業若接受這類融資，可能遭西方客戶嚴格審查，並稱此舉意在影響選舉；本文為 11/25 紙本，上線時間早於本時段，僅作對照。", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/25/2003868338"}
+          ],
+          "note": "協議簽署日為 11/23（新華社說法），各媒體對選前「四天」或「五天」寫法不一。"
+        },
+        {
+          "title": "國台辦：兩岸前 10 月貿易額年增 32%，重申反對台獨",
+          "summary": "中國國台辦發言人張晗 11/25 在例行記者會表示，今年 1 至 10 月兩岸貿易額約 3,400 億美元、年增 32%，批評「脫鉤斷鏈」說法，也稱小三通旅客量創 2001 年通航以來新高。他同時重申反對台獨是兩岸關係的政治基礎，並就川習會表示妥善處理台灣問題是中美關係穩定的關鍵。",
+          "prc": true,
+          "sources": [
+            {"outlet": "中新網", "time": "11/25", "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737747.shtml"},
+            {"outlet": "澎湃新聞", "time": "11/25", "url": "https://www.thepaper.cn/newsDetail_forward_34554585"},
+            {"outlet": "21 世紀經濟報道", "time": "11/25", "url": "https://www.21jingji.com/article/20261125/herald/d969a5a3854d14eb83cc6afcc25ef2d2.html"}
+          ],
+          "note": "中國官方說法，僅供對照；貿易額數字為國台辦說法，未經其他來源核對。"
+        },
+        {
+          "title": "國防部：共艦 9 艘、共機 1 架次在台海周邊活動",
+          "summary": "國防部公布，11/24 上午 6 時至 11/25 上午 6 時，偵獲中國軍艦 9 艘與軍機 1 架次，其中 1 架直升機進入東部防空識別區。國軍以任務機、艦與岸置飛彈系統監控。",
+          "prc": false,
+          "sources": [
+            {"outlet": "自由時報 自由軍武頻道", "time": "11/25 09:50", "url": "https://def.ltn.com.tw/article/breakingnews/5652433"},
+            {"outlet": "Taiwan News", "time": "11/25", "url": "https://www.taiwannews.com.tw/en/category/sys_LatestNews"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。自由時報連結依搜尋結果對應，文章編號待確認。"
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "name": "國際外交",
+      "items": [
+        {
+          "title": "國台辦要求日本「儘快糾正」涉台言行",
+          "summary": "日本首相高市早苗在深圳 APEC 期間表示，日本對台灣問題的立場「沒有任何改變」，但未收回「台灣有事」相關說法。國台辦 11/25 回應，台灣問題是中國內政，要求日方恪守一中原則與中日四個政治文件，儘快改正錯誤言行。",
+          "prc": true,
+          "sources": [
+            {"outlet": "中新網", "time": "11/25", "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737652.shtml"},
+            {"outlet": "澎湃新聞", "time": "11/25", "url": "https://www.thepaper.cn/newsDetail_forward_34554945"},
+            {"outlet": "新浪新聞", "time": "11/25", "url": "https://news.sina.com.cn/c/2026-11-25/doc-inizxiam1848141.shtml"}
+          ],
+          "note": "中國官方說法，僅供對照。高市早苗的發言背景可參考 Nikkei Asia APEC 直播頁（https://asia.nikkei.com/politics/international-relations/apec/apec-live-takaichi-says-japan-s-position-on-taiwan-remains-the-same），該頁發布時間早於本時段。"
+        },
+        {
+          "title": "林佳龍與 AIT 處長谷立言同慶感恩節：今年台美關係豐收",
+          "summary": "外交部與美國各州政府駐台辦事處協會 11/25 晚間舉辦感恩之夜，外交部長林佳龍說，美國已是台灣最大貿易夥伴，目前有 23 州及關島在台設處。AIT 處長谷立言表示，台灣企業今年已宣布約 1,550 億美元的對美投資承諾。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社", "time": "11/25", "url": "https://www.cna.com.tw/news/aipl/202611250298.aspx"},
+            {"outlet": "經濟日報（聯合新聞網）", "time": "11/25", "url": "https://money.udn.com/money/story/7307/9901927"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "經濟財經",
+      "items": [
+        {
+          "title": "台股反向重挫 4.80%，亞洲 AI 股全面回檔",
+          "summary": "半島電視台、美聯社與土耳其安納杜魯通訊社報導，黃仁勳重回輝達帶來的反彈只維持一天，華爾街 AI 股回檔後亞洲股市 11/25 全面下跌；台股盤中一度重挫逾 8%，終場跌 1,926.92 點、收 38,195.43 點，南韓 KOSPI 跌約 6.2%，SK 海力士、三星電子跌近一成。日本みんかぶ則指出，前一天美國費城半導體指數大跌約 7.9%。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Al Jazeera", "time": "11/25", "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"},
+            {"outlet": "AP（ABC News 轉載）", "time": "11/25", "url": "https://abcnews.com/Business/wireStory/asian-stocks-decline-ai-shares-tumble-after-retreat-138431273"},
+            {"outlet": "Anadolu Agency", "time": "11/25", "url": "https://www.aa.com.tr/en/economy/asian-chip-stocks-plunge-as-nvidia-led-rally-fades/4136929"},
+            {"outlet": "みんかぶ FX（日文）", "time": "11/25 18:29", "url": "https://fx.minkabu.jp/news/385400"},
+            {"outlet": "Investing.com 日本版", "time": "11/25", "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1770205"},
+            {"outlet": "中央社 Focus Taiwan", "time": "11/25", "url": "https://focustaiwan.tw/business/202611250009"}
+          ],
+          "local": [
+            {"outlet": "NOWnews", "note": "強調外資單日賣超 1,236.54 億元，為史上第 7 大，已連 8 日賣超、累計約 4,216 億元；投信則逆勢買超約 535 億元。", "url": "https://www.nownews.com/news/6895489"},
+            {"outlet": "Taipei Times", "note": "稱這是台股史上第 6 大單日收盤跌點，主因 AI 前景不確定。", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/26/2003868387"}
+          ]
+        },
+        {
+          "title": "新台幣貶破 33 元，收 33.126 元",
+          "summary": "外資大舉匯出，新台幣 11/25 收盤貶值 1.87 角至 33.126 元兌 1 美元，盤中一度觸及 33.19 元，是 2025 年 4 月以來首度收在 33 元以上。中央社指出，台北與元太兩大外匯市場成交量創史上第 3 大。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社", "time": "11/25", "url": "https://www.cna.com.tw/news/afe/202611250272.aspx"},
+            {"outlet": "中時新聞網", "time": "11/25", "url": "https://www.chinatimes.com/realtimenews/20261125003588-260410"}
+          ],
+          "local": [
+            {"outlet": "聯合新聞網", "note": "解讀為央行尾盤放手、讓新台幣「一次貶到位」。", "url": "https://udn.com/news/story/7238/9902419"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；日文 Investing.com 也提到股匯雙跌，但未列收盤匯率。"
+        },
+        {
+          "title": "美國對 14 個經濟體提 301 產能過剩關稅，台灣最高 15%",
+          "summary": "美國貿易代表署公布針對「結構性產能過剩」的 301 調查結果，擬對中國、歐盟、日本、南韓、台灣等 14 個經濟體加徵關稅；台灣方案為最高 15%（扣除最惠國稅率與既有 301 關稅），若磋商結果不理想，備案稅率最高 25%。書面意見收到 2027 年 1/5，公聽會訂在 1/25；台經院院長張建一與政務委員李慧芝都表示，最終稅率可望維持台美協議的 15% 上限。",
+          "prc": false,
+          "sources": [
+            {"outlet": "The Korea Times", "time": "11/26（時間待確認）", "url": "https://www.koreatimes.co.kr/world/20261126/us-proposes-tariffs-over-excess-production-retains-15-cap-for-korea-japan-eu"},
+            {"outlet": "Baker McKenzie Global Import Blog", "time": "11/25（美國時間）", "url": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"},
+            {"outlet": "Fox Business", "time": "11/25（美國時間）", "url": "https://www.foxbusiness.com/fox-news-global-economy/trump-admin-raise-tariffs-china-eu-other-trading-partners.amp"},
+            {"outlet": "Taipei Times（含路透補充報導）", "time": "11/26", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868405"}
+          ],
+          "local": [
+            {"outlet": "中央社 Focus Taiwan", "note": "報導重點放在台經院評估：兩項 301 關稅合計應不超過 15%。", "url": "https://focustaiwan.tw/business/202611250020"},
+            {"outlet": "Yahoo 股市", "note": "標題強調「台灣協議稅率至少 15%」。", "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E301%E8%AA%BF%E6%9F%A5%E5%87%BA%E7%88%90%E6%93%AC%E5%B0%8D14%E7%B6%93%E6%BF%9F%E9%AB%94%E5%8A%A0%E9%97%9C%E7%A8%85-%E5%8F%B0%E7%81%A3%E5%8D%94%E8%AD%B0%E7%A8%85%E7%8E%87%E8%87%B3%E5%B0%9115-134457474.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "name": "半導體與供應鏈",
+      "items": [
+        {
+          "title": "台積電從漲停到重挫，盤中跌 210 元創史上第 2 大跌點",
+          "summary": "台積電 11/24 才漲停，11/25 盤中一度跌 210 元至 2,020 元，是史上第 2 大盤中跌點，終場收 2,150 元、跌 3.59%。中央社指出，美國可能公布 301 關稅調查結果的消息與費城半導體指數重挫，是主要賣壓來源；半島電視台則把台積電列為拖累台股的主要個股之一。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社", "time": "11/25", "url": "https://www.cna.com.tw/news/afe/202611250053.aspx"},
+            {"outlet": "Al Jazeera", "time": "11/25", "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"},
+            {"outlet": "三立新聞網", "time": "11/25", "url": "https://inews.setn.com/news/1944403"}
+          ]
+        },
+        {
+          "title": "台積電向德州遞件申請租稅優惠，評估投資約 226 億美元",
+          "summary": "台灣媒體報導，台積電 11/23 向美國德州政府遞交租稅優惠申請，評估在布拉索斯郡投資約 226 億美元（約新台幣 7,100 億元）興建半導體園區；台積電表示計畫尚未定案。部分報導寫成 216.55 億美元，金額待確認。",
+          "prc": false,
+          "tag": "持續追蹤",
+          "sources": [
+            {"outlet": "風傳媒", "time": "11/25", "url": "https://www.storm.mg/article/11184940"},
+            {"outlet": "知新聞", "time": "11/25", "url": "https://www.knews.com.tw/news/DE23F504BDB748087EBFB28BE1B1CAE1"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；DIGITIMES 前一天已報導此案。"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技與產業",
+      "items": [
+        {
+          "title": "AI 伺服器供應鏈股重挫，鴻海跌 8.8%、聯發科跌近一成",
+          "summary": "半島電視台報導，鴻海 11/25 下跌 8.8%，AI 相關科技股全面走弱；其他報導指出聯發科跌約 10%，盤中鴻海、聯發科、廣達、日月光投控等一度跌停。報導把這波賣壓連結到市場對 AI 投資回報的疑慮再起。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Al Jazeera", "time": "11/25", "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"},
+            {"outlet": "Coinotag", "time": "11/25", "url": "https://en.coinotag.com/taiwan-taiex-erases-record-jensen-huang-rally-gain"}
+          ],
+          "note": "聯發科跌幅與個股盤中跌停名單出自轉載或彙整網站，數字待確認。"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "社會、文化、觀光、運動",
+      "items": [
+        {
+          "title": "地方選舉倒數三天，各黨展開最後衝刺",
+          "summary": "距 11/28 投票不到三天，總統賴清德以民進黨主席身分 11/25 到南投、台中輔選，前總統蔡英文也到台中豐原站台；台北、新北市長參選人則以車隊掃街、拜訪市場爭取選票。Taipei Times 11/26 頭版報導，各黨已展開造勢、車隊與廣告的最後攻勢。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/25", "url": "https://focustaiwan.tw/politics/202611250023"},
+            {"outlet": "Taiwan News", "time": "11/25", "url": "https://www.taiwannews.com.tw/news/6480962"},
+            {"outlet": "Taipei Times", "time": "11/26", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/26/2003868414"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        },
+        {
+          "title": "台東外海規模 5.5 地震，台東最大震度 4 級",
+          "summary": "中央氣象署資料顯示，11/25 下午 4 時 47 分台東縣外海發生規模 5.5 地震，震央在台東縣政府南南東方約 102 公里、深度約 16.7 公里，台東最大震度 4 級，屏東、高雄 2 級。歐洲地中海地震中心（EMSC）也記錄到同一地震，但深度數據不同。",
+          "prc": false,
+          "sources": [
+            {"outlet": "Taiwan News", "time": "11/25", "url": "https://www.taiwannews.com.tw/news/6480861"},
+            {"outlet": "DEFCON Level（引 EMSC）", "time": "11/25", "url": "https://www.defconlevel.com/alert/2026-11-25-m-5-5-earthquake-taiwan-region"}
+          ],
+          "note": "本次搜尋未找到災情報導。"
+        },
+        {
+          "title": "勞發署北分署前分署長謝宜容貪污案定讞，判 4 年 6 月",
+          "summary": "最高法院 11/25 駁回上訴，前勞動力發展署北分署分署長謝宜容涉貪案判處有期徒刑 4 年 6 月、褫奪公權 2 年定讞。勞動部表示，收到判決書後將自判決確定日起予以免職。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/25", "url": "https://focustaiwan.tw/society/202611250021"},
+            {"outlet": "中央社（華視轉載）", "time": "11/25", "url": "https://news.cts.com.tw/cna/society/202611/202611253105185.html"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導。"
+        },
+        {
+          "title": "東北季風南下，北台灣轉涼有雨至週六",
+          "summary": "中央社報導，東北季風增強，北部及東半部天氣轉涼並有降雨，預估型態持續到週六投票日。",
+          "prc": false,
+          "sources": [
+            {"outlet": "中央社 Focus Taiwan", "time": "11/25", "url": "https://focustaiwan.tw/society/202611250005"}
+          ],
+          "note": "本次搜尋只找到台灣媒體報導；內容依搜尋結果標題與摘要整理，細節待確認。"
+        }
+      ]
+    }
+  ],
+  "search_notes": {
+    "not_found": [
+      "Reuters：本時段未找到可直接連結的台灣主題新稿；USTR 301 關稅相關內容透過 Taipei Times 標註的路透補充報導取得",
+      "Bloomberg：只找到 11/19～11/23 的台股與選舉報導，未找到本時段新稿",
+      "BBC：BBC Verify〈China-linked network using AI fakes to smear Taiwan election candidates〉經轉載網站顯示為 11/24 發布，早於本時段，未收錄",
+      "NYT、WSJ、FT、The Guardian、The Economist、AFP：未找到本時段以台灣為主軸的報導",
+      "Nikkei Asia：台灣頁面有「As Taiwan elections near, one KMT mayor's ambitions loom large」等標題，但無法確認發布時間，未收錄",
+      "NHK、Kyodo、Asahi、Yonhap、SCMP、Straits Times：未找到本時段台灣相關原文；日文以みんかぶ、Investing.com 日本版為主",
+      "DW、France 24、Le Monde：未找到本時段台灣相關報導",
+      "新華社、環球時報：未找到本時段新華社台灣專文原頁與環球時報涉台選舉報導；國台辦記者會內容以中新網、澎湃新聞為來源",
+      "本次執行環境無法直接開啟新聞網站原文（WebFetch 對 focustaiwan.tw、aljazeera.com 無法連線），內容依搜尋結果摘要整理，多數發布時間只能標到日期",
+      "Taipei Times 11/25 紙本（如 Section 301 預期上限 15%、海外網紅觀選）上線時間早於本時段，只作為對照或未收錄"
+    ],
+    "paywalled": [
+      "Bloomberg 台灣相關報導：只看得到標題與導言",
+      "Nikkei Asia 台灣頁面：只看得到標題"
+    ]
+  }
+}
